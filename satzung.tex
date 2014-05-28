@@ -1,4 +1,29 @@
-\input{header_satzung}
+\documentclass[draft,12pt,oneside]{scrreprt}
+
+% Sprache und Encodings
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Typographisch interessante Pakete
+\usepackage{microtype} % Randkorrektur und andere Anpassungen
+
+% References to Internet and within the document !!!always last package!!!
+\usepackage[pdftex,colorlinks=false,
+pdftitle={Geschäftsordnung für Plenen der ZaPF},
+pdfauthor={Zusammenkunft aller Physikfachschaften},
+pdfcreator={pdflatex},
+pdfdisplaydoctitle=true]{hyperref}
+
+% Absaetze nicht Einruecken
+\setlength{\parindent}{0pt}
+
+\usepackage{draftwatermark}
+\SetWatermarkText{Entwurf}
+\SetWatermarkScale{5}
+
+% Paragraphen
+\renewcommand*\thesection{\S~\arabic{section}.}
 
 \begin{document}
 
@@ -7,16 +32,16 @@
 \textbf{Die männliche Anrede gilt im folgenden sowohl für weibliche
 als auch für männliche TeilnehmerInnen der ZaPF.}
 
-\section*{§ 1 Name}
+\section{Name}
 Die Tagung der Vertreter der Physik-Fachschaften trägt den Namen Zusammenkunft
 aller Physik-Fachschaften, kurz ZaPF.  Sie ist die Nachfolgeorganisation der
 Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
 
-\section*{§ 2 Mitglieder}
+\section{Mitglieder}
 Die ZaPF setzt sich aus Vertretern und Mitgliedern der Fachschaften Physik
 aller Hochschulen des deutschsprachigen Raumes zusammen.
 
-\section*{§ 3 Aufgaben}
+\section{Aufgaben}
 Die ZaPF findet einmal pro Semester statt; sie tagt öffentlich. Sie befasst
 sich mit hochschul- und studienrelevanten Themenbereichen.  Die ZaPF dient dem
 Sammeln und der Diskussion von Informationen zu diesen Themen und tritt mit
@@ -25,19 +50,18 @@ allgemeinpolitisches Mandat. Des Weiteren dient sie zum Gedanken- und
 Ideenaustausch zwischen den Fachschaften. Eine ZaPF beginnt mit dem
 Anfangsplenum und endet nach dem Abschlussplenum.
 
-\section*{§ 4 Tagung}
+\section{Tagung}
 Die ausrichtende Fachschaft legt den Programm-Ablauf der Tagung fest und
 erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader. Sie
 stellt davon allen Mitglieds-fachschaften ein Exemplar zur Verfügung.
 
-\newpage
-\section*{§ 5 Organe}
+\section{Organe}
   Die Organe der ZaPF sind
   \begin{enumerate}
     \item \textbf{Das ZaPF-Plenum}\\
           Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF
           und setzt sich aus allen Teilnehmern der jeweiligen ZaPF zusammen.
-          Einzelne Themen werden in Arbeits\-kreisen diskutiert und für das
+          Einzelne Themen werden in Arbeitskreisen diskutiert und für das
           Plenum vorbereitet. Zu seinen Beschlusskompetenzen zählt auch die
           Wahl der Vertreter für den studentischen Akkreditierungspool für
           Bachelor- und Masterstudiengänge und ähnliche Gremien.  Es beschließt
@@ -45,30 +69,33 @@ stellt davon allen Mitglieds-fachschaften ein Exemplar zur Verfügung.
           Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
     \item \textbf{Der Ständige Ausschuss der Physik-Fachschaften (StAPF)}\\
           Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die
-          ZaPF in der Öffentlichkeit. Zu jeder im Sommersemester stattfindenden
-          ZaPF wird der StAPF neu gewählt. Sollten ein oder mehrere Posten im
-          StAPF vakant sein, muss im Abschlussplenum der Winter-ZaPF eine
-          Nachbesetzung durchgeführt werden. Die Nachbesetzung ist eine
-          Personenwahl wie zur Wahl des gesamten StAPF. Sollte es keine
-          Kandidaten für diese Posten geben, bleiben sie vakant. Der StAPF
-          besteht aus maximal fünf Physik-Studierenden von mindestens drei
-          verschiedenen Hochschulen. Er konferiert öffentlich mindestens
-          zweimal zwischen den ZaPFen.  Termin und Tagungsort (auf einer ZaPF,
-          öffentlicher Chatraum, etc.) sind rechtzeitig an geeigneter Stelle
-          bekannt zu machen. Der StAPF ist an die Weisungen des Plenums
-          gebunden, kann jedoch eigenverantwortlich handeln und muss seine
-          Beschlüsse dem ZaPF-Plenum gegenüber vertreten. Die Entscheidungen
-          innerhalb des StAPF müssen in diesen Fällen einstimmig fallen. Der
-          StAPF gibt Informationen umgehend an die Fachschaften weiter.  Auf
-          jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
-          Der StAPF ist für die Archivierung und Veröffentlichung der
-          Ergebnisse der ZaPF verantwortlich, des Weiteren ist er Unterzeichner
-          der ZaPF-Veröffentlichungen.  Der StAPF wählt sich aus seiner Mitte
-          einen Sprecher. Sollte kein StAPF gewählt werden übernimmt das Plenum
-          der ZaPF die Aufgaben des StAPF.
+          ZaPF in der Öffentlichkeit. Der StAPF besteht aus fünf Physik-Studierenden
+          von mindestens drei verschiedenen Hochschulen, welche für jeweils ein
+          Jahr gewählt werden. Zu jeder im Sommersemester stattfindenden ZaPF
+          werden drei Mitglieder des StAPF neu gewählt. Zu jeder im Wintersemester
+          stattfindenden ZaPF werden zwei Mitglieder des StAPF neu gewählt.
+          Sollten ein oder mehrere Posten im StAPF vakant sein, muss im
+          Abschlussplenum der darauf folgenden ZaPF eine Nachbesetzung
+          durchgeführt werden. Die Nachbesetzung ist eine Personenwahl wie zur
+          Wahl des gesamten StAPF. Sollte es keine Kandidaten für diese Posten
+          geben, bleiben sie vakant. Der StAPF besteht aus maximal fünf
+          Physik-Studierenden von mindestens drei verschiedenen Hochschulen.
+          Er konferiert öffentlich mindestens zweimal zwischen den ZaPFen.
+          Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.)
+          sind rechtzeitig an geeigneter Stelle bekannt zu machen. Der StAPF ist
+          an die Weisungen des Plenums gebunden, kann jedoch eigenverantwortlich
+          handeln und muss seine Beschlüsse dem ZaPF-Plenum gegenüber vertreten.
+          Die Entscheidungen innerhalb des StAPF müssen in diesen Fällen einstimmig
+          fallen. Der StAPF gibt Informationen umgehend an die Fachschaften weiter.
+          Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
+          Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse
+          der ZaPF verantwortlich, des Weiteren ist er Unterzeichner der
+          ZaPF-Veröffentlichungen. Der StAPF wählt sich aus seiner Mitte einen
+          Sprecher. Sollte kein StAPF gewählt werden übernimmt das Plenum der
+          ZaPF die Aufgaben des StAPF.
   \end{enumerate}
 
-\section*{§ 7 Satzungsänderungen}
+\section{Satzungsänderungen}
 Änderungen dieser Satzung benötigen eine 2/3-Mehrheit, wobei Beschlussfähigkeit
 des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen
 sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum
@@ -82,16 +109,26 @@ Satzungsänderungsantrag/Satzungsänderungsanträge bis spätestens 15:00 Uhr am
 Vortag des Endplenums bei der die ZaPF ausrichtenden Fachschaft eingereicht und
 ausgehängt werden müssen.
 
-\section*{Schlussbestimmungen}
+\section*{Schlussbestimmungen und Änderungshistorie}
 Die vorliegende Satzung wurde anlässlich der ZaPF '06 in Dresden vorbereitet,
 mit einer Zweidrittelmehrheit der anwesenden Fachschaften beschlossen und
 angenommen. Diese Satzung setzt alle bisherigen außer Kraft. Sie trat zum
 28.05.2006 in Kraft.
 
-\end{document}
+Inhaltliche Änderungen wurden vorgenommen auf der:
 
-% Beschloßen im SoSe 2006 in Dresden
-% geändert 2007 auf der Sommer ZaPF in Berlin
-% geändert 2008 auf der Sommer ZaPF in Konstanz
-% geändert 2009 auf der Sommer ZaPF in Göttingen
-% geändert 2011 auf der Sommer ZaPF in Dresden
+\begin{itemize}
+
+  \item Sommer-ZaPF 2007 in Berlin
+
+  \item Sommer-ZaPF 2008 in Konstanz
+
+  \item Sommer-ZaPF 2009 in Göttingen
+
+  \item Sommer-ZaPF 2011 in Dresden
+
+  \item Sommer-ZaPF 2013 in Jena
+
+\end{itemize}
+
+\end{document}
