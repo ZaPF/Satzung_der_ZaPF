@@ -1,16 +1,16 @@
 Satzung der ZaPF
 ================
 
-**Die männliche Anrede gilt im folgenden sowohl für weibliche
-als auch für männliche TeilnehmerInnen der ZaPF.**
+**Dieses Dokument verwendet die geschlechtsneutrale Schreibweise von *ikon für
+die Ein- und *ika für die Mehrzahl (z.B. alle Teilnehmika der ZaPF.**
 
 # §1 Name
-Die Tagung der Vertreter der Physik-Fachschaften trägt den Namen Zusammenkunft
+Die Tagung der Vertretika der Physik-Fachschaften trägt den Namen Zusammenkunft
 aller Physik-Fachschaften, kurz ZaPF.  Sie ist die Nachfolgeorganisation der
 Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
 
 # §2 Mitglieder
-Die ZaPF setzt sich aus Vertretern und Mitgliedern der Fachschaften Physik
+Die ZaPF setzt sich aus Vertretika und Mitgliedika der Fachschaften Physik
 aller Hochschulen des deutschsprachigen Raumes zusammen.
 
 # §3 Aufgaben
@@ -37,10 +37,10 @@ Physik-Fachschaften (StAPF), die Vertrauenspersonen und das Kommunikationsgremiu
 ## (a) Das ZaPF-Plenum
 
 Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
-sich aus allen Teilnehmern der jeweiligen ZaPF zusammen.
+sich aus allen Teilnehmika der jeweiligen ZaPF zusammen.
 
 Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet.
-Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter für den
+Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertretika für den
 studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und
 ähnliche Gremien.
 
@@ -56,15 +56,15 @@ Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Der StAPF besteht aus maximal fünf Physik-Studierenden von mindestens drei
 verschiedenen Hochschulen, welche für jeweils ein Jahr gewählt werden.
 
-Zu jeder im Sommersemester stattfindenden ZaPF werden drei Mitglieder des StAPF
+Zu jeder im Sommersemester stattfindenden ZaPF werden drei Mitgliedika des StAPF
 neu gewählt.
-Zu jeder im Wintersemester stattfindenden ZaPF werden zwei Mitglieder des StAPF
+Zu jeder im Wintersemester stattfindenden ZaPF werden zwei Mitgliedika des StAPF
 neu gewählt.
 
 Sollten ein oder mehrere Posten im StAPF vakant sein, muss im Abschlussplenum der
 darauf folgenden ZaPF eine Nachbesetzung durchgeführt werden.
 Die Nachbesetzung ist eine Personenwahl wie zur Wahl des gesamten StAPF.
-Sollte es keine Kandidaten für diese Posten geben, bleiben sie vakant.
+Sollte es keine Kandidatika für diese Posten geben, bleiben sie vakant.
 
 Der StAPF konferiert öffentlich mindestens zweimal zwischen den ZaPFen.
 Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.) sind
@@ -104,9 +104,9 @@ Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie
 die Veröffentlichung gemeinsamer Beschlüsse.
 Weiterhin entsendet dieses Gremium einen gemeinsamen Vertreter zur KFP.
 
-Die ZaPF und jDPG entsenden je ein Mitglied in das Kommunikationsgremium.
+Die ZaPF und jDPG entsenden je ein Mitgliedikon in das Kommunikationsgremium.
 
-Die Amtszeit der Mitglieder im Kommunikationsgremium beläuft sich auf ein Jahr.
+Die Amtszeit der Mitgliedika im Kommunikationsgremium beläuft sich auf ein Jahr.
 
 Näheres regelt das Dokument zur "Regelung zur Zusammenarbeit von jDPG und ZaPF
 in hochschulpolitischen Fragestellungen" in der Fassung vom Endplenum der ZaPF
@@ -124,7 +124,7 @@ zusammen mit einem Antragsentwurf oder mindestens einer schriftlichen
 Begründung und einem konkreten Thema der Satzungsänderung anzukündigen.
 
 Auf der ZaPF muss dann zwingend ein Arbeitskreis zum Thema der vorgeschlagenen
-Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.\
+Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.
 Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
 der die ZaPF ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
 
