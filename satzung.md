@@ -2,7 +2,7 @@ Satzung der ZaPF
 ================
 
 **Dieses Dokument verwendet die geschlechtsneutrale Schreibweise von *ikon für
-die Ein- und *ika für die Mehrzahl (z.B. alle Teilnehmika der ZaPF.**
+die Ein- und *ika für die Mehrzahl alle Teilnehmika der ZaPF.**
 
 # §1 Name
 Die Tagung der Vertretika der Physik-Fachschaften trägt den Namen Zusammenkunft
