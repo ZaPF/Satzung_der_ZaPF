@@ -1,49 +1,19 @@
-\documentclass[draft,12pt,oneside]{scrreprt}
+Satzung der ZaPF
+================
 
-% Sprache und Encodings
-\usepackage[ngerman]{babel}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
+**Die männliche Anrede gilt im folgenden sowohl für weibliche
+als auch für männliche TeilnehmerInnen der ZaPF.**
 
-% Typographisch interessante Pakete
-\usepackage{microtype} % Randkorrektur und andere Anpassungen
-
-% References to Internet and within the document !!!always last package!!!
-\usepackage[pdftex,colorlinks=false,
-pdftitle={Geschäftsordnung für Plenen der ZaPF},
-pdfauthor={Zusammenkunft aller Physikfachschaften},
-pdfcreator={pdflatex},
-pdfdisplaydoctitle=true]{hyperref}
-
-% Absaetze nicht Einruecken
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{2pt}
-
-\usepackage{draftwatermark}
-\SetWatermarkText{Entwurf}
-\SetWatermarkScale{5}
-
-% Paragraphen
-\renewcommand*\thesection{\S~\arabic{section}}
-\renewcommand*\thesubsection{\S~\arabic{section}\,(\alph{subsection})}
-
-\begin{document}
-
-\chapter*{Satzung der ZaPF}
-
-\textbf{Die männliche Anrede gilt im folgenden sowohl für weibliche
-als auch für männliche TeilnehmerInnen der ZaPF.}
-
-\section{Name}
+# §1 Name
 Die Tagung der Vertreter der Physik-Fachschaften trägt den Namen Zusammenkunft
 aller Physik-Fachschaften, kurz ZaPF.  Sie ist die Nachfolgeorganisation der
 Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
 
-\section{Mitglieder}
+# §2 Mitglieder
 Die ZaPF setzt sich aus Vertretern und Mitgliedern der Fachschaften Physik
 aller Hochschulen des deutschsprachigen Raumes zusammen.
 
-\section{Aufgaben}
+# §3 Aufgaben
 Die ZaPF findet einmal pro Semester statt; sie tagt öffentlich. Sie befasst
 sich mit hochschul- und studienrelevanten Themenbereichen.
 
@@ -52,19 +22,19 @@ und tritt mit Resultaten gegebenenfalls an die Öffentlichkeit, besitzt aber kei
 allgemeinpolitisches Mandat.
 Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den Fachschaften.
 
-\section{Tagung}
+# §4 Tagung
 Die ausrichtende Fachschaft legt den Programm-Ablauf der Tagung fest und
 erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader. Sie
 stellt davon allen Mitglieds-fachschaften ein Exemplar zur Verfügung.
 
 Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 
-\section{Organe}
+# §5 Organe
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
 Physik-Fachschaften (StAPF), die Vertrauenspersonen und das Kommunikationsgremium.
 
-\subsection{Das ZaPF-Plenum}
+## (a) Das ZaPF-Plenum
 
 Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
 sich aus allen Teilnehmern der jeweiligen ZaPF zusammen.
@@ -78,7 +48,7 @@ Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF.
 
 Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 
-\subsection{Der Ständige Ausschuss der Physik-Fachschaften}
+## (b) Der Ständige Ausschuss der Physik-Fachschaften
 
 Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Öffentlichkeit.
@@ -115,7 +85,7 @@ Der StAPF wählt sich aus seiner Mitte einen Sprecher.
 Sollte kein StAPF gewählt werden übernimmt das Plenum der ZaPF die Aufgaben
 des StAPF.
 
-\subsection{Die Vertrauenspersonen}
+## (c) Die Vertrauenspersonen
 
 Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
@@ -126,7 +96,7 @@ Ihre Amtszeit endet mit dem Ende des Abschlussplenums oder Niederlegung des Amte
 Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
 gesondert zu regeln.
 
-\subsection{Das Kommunikationsgremium}
+## (d) Das Kommunikationsgremium
 
 Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und jDPG.
 
@@ -138,11 +108,11 @@ Die ZaPF und jDPG entsenden je ein Mitglied in das Kommunikationsgremium.
 
 Die Amtszeit der Mitglieder im Kommunikationsgremium beläuft sich auf ein Jahr.
 
-Näheres regelt das Dokument zur ``Regelung zur Zusammenarbeit von jDPG und ZaPF
-in hochschulpolitischen Fragestellungen'' in der Fassung vom Endplenum der ZaPF
+Näheres regelt das Dokument zur "Regelung zur Zusammenarbeit von jDPG und ZaPF
+in hochschulpolitischen Fragestellungen" in der Fassung vom Endplenum der ZaPF
 im Sommersemester 2010 in Frankfurt.
 
-\section{Satzungsänderungen}
+# §6 Satzungsänderungen
 Änderungen dieser Satzung benötigen eine 2/3-Mehrheit, wobei Beschlussfähigkeit
 des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen
 sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum
@@ -158,26 +128,15 @@ Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.\
 Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
 der die ZaPF ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
 
-\section*{Schlussbestimmungen und Änderungshistorie}
+# Schlussbestimmungen und Änderungshistorie
 Die vorliegende Satzung wurde anlässlich der ZaPF '06 in Dresden vorbereitet,
 mit einer Zweidrittelmehrheit der anwesenden Fachschaften beschlossen und
 angenommen. Diese Satzung setzt alle bisherigen außer Kraft. Sie trat zum
 28.05.2006 in Kraft.
 
 Inhaltliche Änderungen wurden vorgenommen auf der:
-
-\begin{itemize}
-
-  \item Sommer-ZaPF 2007 in Berlin
-
-  \item Sommer-ZaPF 2008 in Konstanz
-
-  \item Sommer-ZaPF 2009 in Göttingen
-
-  \item Sommer-ZaPF 2011 in Dresden
-
-  \item Sommer-ZaPF 2013 in Jena
-
-\end{itemize}
-
-\end{document}
+- Sommer-ZaPF 2007 in Berlin
+- Sommer-ZaPF 2008 in Konstanz
+- Sommer-ZaPF 2009 in Göttingen
+- Sommer-ZaPF 2011 in Dresden
+- Sommer-ZaPF 2013 in Jena
