@@ -112,7 +112,7 @@ in hochschulpolitischen Fragestellungen" in der Fassung vom Endplenum der ZaPF
 im Sommersemester 2010 in Frankfurt.
 
 # §6 Satzungsänderungen
-Änderungen dieser Satzung benötigen eine 2/3-Mehrheit, wobei Beschlussfähigkeit
+Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
 des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen
 sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum
 abgestimmt werden.
