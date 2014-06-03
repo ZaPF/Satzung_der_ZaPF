@@ -1,6 +1,9 @@
 # Satzung der ZaPF
 
-Dieses Repository enthält die LaTeX Quelldatei für die Satzung der ZaPF.
+Dieses Repository enthält die Quelldateien für die Satzung der ZaPF.
+
+Die main branch enthält eine Variante der Satzung in Markdown, während die branch
+master-tex eine LaTeX-Fassung inklusive PDF enthält.
 
 ### Homepage
 
