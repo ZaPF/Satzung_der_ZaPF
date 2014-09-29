@@ -60,6 +60,8 @@ neu gewählt.
 
 Sollten ein oder mehrere Posten im StAPF vakant sein, muss im Abschlussplenum der
 darauf folgenden ZaPF eine Nachbesetzung durchgeführt werden.
+Die nachbesetzte Person bleibt für die Restdauer der Wahlperiode des
+ausgeschiedenen Mitgliedes im Amt.
 Die Nachbesetzung ist eine Personenwahl wie zur Wahl des gesamten StAPF.
 Sollte es keine Kandidatinnen oder Kandidaten für diese Posten geben, bleiben
 sie vakant.
