@@ -1,7 +1,7 @@
 # Dies ist das Makefile um die verschiedenen Publikationsversionen der Satzung
 # der ZaPF
 
-all: html tex pdf
+all: html tex pdf wiki
 
 html: ../satzung.rst
 	rst2html ../satzung.rst > ../versions/satzung.html
@@ -13,6 +13,9 @@ pdf: ../versions/satzung.tex
 	pdflatex -output-directory ../versions satzung.tex
 	pdflatex -output-directory ../versions satzung.tex
 	rm ../versions/satzung.{log,aux,out}
+
+wiki: ../satzung.rst
+	./rst2wiki/rst2wiki.py ../satzung.rst > ../versions/satzung.wiki
 
 clean:
 	rm ../versions/*
