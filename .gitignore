@@ -3,6 +3,8 @@
 *.toc
 *.aux
 *.out
-*.markdown.txt
 *.mediawiki.txt
+*.markdown.txt
 auto/
+.static/
+.templates/
