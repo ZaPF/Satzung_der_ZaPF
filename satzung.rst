@@ -127,6 +127,32 @@ Näheres regelt das Dokument zur "Regelung zur Zusammenarbeit von jDPG und ZaPF
 in hochschulpolitischen Fragestellungen" in der Fassung vom Endplenum der ZaPF
 im Sommersemester 2010 in Frankfurt.
 
+(e) Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Der Technische Organisationsausschuss aller Physikfachschaften (TOPF) ist für
+die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
+
+Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die
+Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme
+hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen Helfern,
+die für die Dokumentation und den Betrieb von einzelnen Projekten verantwortlich
+sind.
+
+Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig
+und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit,
+Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als
+auch für einzelne Projekte zu bestimmen.
+
+Die freiwilligen Helfer werden nicht gewählt, sondern durch die beiden
+Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig
+sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
+
+Die Wahl der beiden Hauptverantwortlichen ist eine Personenwahl entsprechend der
+Geschäftsordnung für Plenen der ZaPF.  Je ein Hauptverantwortlicher wird zur
+ZaPF im Winter- und der andere im Sommersemester gewählt.
+
+
 §6 Satzungsänderungen
 ---------------------
 
