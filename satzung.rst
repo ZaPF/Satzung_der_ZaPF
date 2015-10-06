@@ -187,4 +187,5 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2011 in Dresden,
 - Sommer-ZaPF 2013 in Jena,
 - Sommer-ZaPF 2014 in Düsseldorf,
-- und auf Winter-ZaPF 2014 in Bremen.
+- Winter-ZaPF 2014 in Bremen,
+- und auf der Sommer-ZaPF in Aachen.
