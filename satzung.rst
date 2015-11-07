@@ -42,6 +42,15 @@ Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
 Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
 und der Technische Organisationsausschuss aller Physikfachschaften (TOPF).
 
+Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet, so
+nicht anders geregelt, mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder
+Niederlegung des Amtes durch den Amtsinhaber. Bis zur Nachwahl bleibt ein
+unbesetztes Amt vakant. Bei der Nachwahl wird das Amt bis zum Ablauf der
+Restdauer der Amtszeit besetzt.
+
+Falls mehr als zwei Drittel der Mitglieder eines Gremiums geschlossen das Amt
+niederlegen ist das gesamte Gremium neu zu besetzen.
+
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
 
