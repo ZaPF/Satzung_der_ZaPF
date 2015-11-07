@@ -39,7 +39,8 @@ Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 ---------
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
-Physik-Fachschaften (StAPF), die Vertrauenspersonen und das Kommunikationsgremium.
+Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
+und der Technische Organisationsausschuss aller Physikfachschaften (TOPF).
 
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
