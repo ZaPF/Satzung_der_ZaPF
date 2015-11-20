@@ -42,6 +42,11 @@ Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
 Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
 und der Technische Organisationsausschuss aller Physikfachschaften (TOPF).
 
+Die Wahlen von Mitgliedern des Ständigen Ausschusses der Physik-Fachschaften
+(StAPF), des Kommunikationsgremiums und des Technischen Organisationsausschusses
+aller Physikfachschaften (TOPF) sind Personenwahlen entsprechend der
+Geschäftsordnung der ZaPF.
+
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet, so
 nicht anders geregelt, mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder
 der Amtsinhaberin, Niederlegung des Amtes oder Abwahl mit Zweiteldrittelmehrheit
@@ -52,6 +57,8 @@ Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
 Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
 einer Tagung statt.
+Sollte es keine Kandidatinnen oder Kandidaten für diese Posten geben, bleiben
+sie vakant.
 
 Falls mehr als zwei Drittel der Mitglieder eines Gremiums das Amt niederlegt
 haben ist das gesamte Gremium neu zu besetzen.
@@ -80,18 +87,9 @@ Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Der StAPF besteht aus maximal fünf Physik-Studierenden von mindestens drei
 verschiedenen Hochschulen, welche für jeweils ein Jahr gewählt werden.
 
-Zu jeder im Sommersemester stattfindenden ZaPF werden drei Mitglieder des StAPF
-neu gewählt.
-Zu jeder im Wintersemester stattfindenden ZaPF werden zwei Mitglieder des StAPF
-neu gewählt.
-
-Sollten ein oder mehrere Posten im StAPF vakant sein, muss im Abschlussplenum der
-darauf folgenden ZaPF eine Nachbesetzung durchgeführt werden.
-Die nachbesetzte Person bleibt für die Restdauer der Wahlperiode des
-ausgeschiedenen Mitgliedes im Amt.
-Die Nachbesetzung ist eine Personenwahl wie zur Wahl des gesamten StAPF.
-Sollte es keine Kandidatinnen oder Kandidaten für diese Posten geben, bleiben
-sie vakant.
+Die Amtszeit von drei StAPF-Posten beginnt zu einer im Sommersemester
+stattfindenden ZaPF und die zweier StAPF-Posten zu einer im Wintersemester
+stattfindenden ZaPF.
 
 Der StAPF konferiert öffentlich mindestens zweimal zwischen den ZaPFen.
 Termin und Tagungsort (auf einer ZaPF, öffentlicher Chatraum, etc.) sind
@@ -163,10 +161,9 @@ Die freiwilligen Helfer werden nicht gewählt, sondern durch die beiden
 Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig
 sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
 
-Die Wahl der beiden Hauptverantwortlichen ist eine Personenwahl entsprechend der
-Geschäftsordnung für Plenen der ZaPF.  Je ein Hauptverantwortlicher wird zur
-ZaPF im Winter- und der andere im Sommersemester gewählt.
-
+Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester
+stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden
+ZaPF.
 
 §6 Satzungsänderungen
 ---------------------
