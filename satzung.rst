@@ -58,8 +58,8 @@ Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
 einer Tagung statt.
 Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 
-Falls mehr als zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen
-ist das gesamte Gremium neu zu besetzen.
+Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen
+endet auch die Amtszeit der übrigen Mitglieder.
 
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
