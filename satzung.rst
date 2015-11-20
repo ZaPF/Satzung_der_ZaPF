@@ -50,8 +50,8 @@ Nachwahl wird das Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
 Die Nachwahl findet zum auf Ausscheiden nachfolgende Abschlussplenum einer
 Tagung statt.
 
-Falls mehr als zwei Drittel der Mitglieder eines Gremiums geschlossen das Amt
-niederlegen ist das gesamte Gremium neu zu besetzen.
+Falls mehr als zwei Drittel der Mitglieder eines Gremiums das Amt niederlegt
+haben ist das gesamte Gremium neu zu besetzen.
 
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
