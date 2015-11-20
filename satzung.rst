@@ -40,12 +40,11 @@ Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
 Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
-und der Technische Organisationsausschuss aller Physikfachschaften (TOPF).
+(KomGrem) und der Technische Organisationsausschuss aller Physikfachschaften
+(TOPF).
 
-Die Wahlen von Mitgliedern des Ständigen Ausschusses der Physik-Fachschaften
-(StAPF), des Kommunikationsgremiums und des Technischen Organisationsausschusses
-aller Physikfachschaften (TOPF) sind Personenwahlen entsprechend der
-Geschäftsordnung der ZaPF.
+Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
+Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet, so
 nicht anders geregelt, mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder
@@ -57,11 +56,10 @@ Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
 Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
 einer Tagung statt.
-Sollte es keine Kandidatinnen oder Kandidaten für diese Posten geben, bleiben
-sie vakant.
+Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 
-Falls mehr als zwei Drittel der Mitglieder eines Gremiums das Amt niederlegt
-haben ist das gesamte Gremium neu zu besetzen.
+Falls mehr als zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen
+ist das gesamte Gremium neu zu besetzen.
 
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
@@ -87,8 +85,8 @@ Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Der StAPF besteht aus maximal fünf Physik-Studierenden von mindestens drei
 verschiedenen Hochschulen, welche für jeweils ein Jahr gewählt werden.
 
-Die Amtszeit von drei StAPF-Posten beginnt zu einer im Sommersemester
-stattfindenden ZaPF und die zweier StAPF-Posten zu einer im Wintersemester
+Die Amtszeit von drei Mitgliedern des StAPF beginnt zu einer im Sommersemester
+stattfindenden ZaPF und die zweier StAPF-Mitglieder zu einer im Wintersemester
 stattfindenden ZaPF.
 
 Der StAPF konferiert öffentlich mindestens zweimal zwischen den ZaPFen.
