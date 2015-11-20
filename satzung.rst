@@ -44,11 +44,14 @@ und der Technische Organisationsausschuss aller Physikfachschaften (TOPF).
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet, so
 nicht anders geregelt, mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder
-der Amtsinhaberin oder der Niederlegung des Amtes durch den Amtsinhaber oder die
-Amtsinhaberin. Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der
-Nachwahl wird das Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
-Die Nachwahl findet zum auf Ausscheiden nachfolgende Abschlussplenum einer
-Tagung statt.
+der Amtsinhaberin, Niederlegung des Amtes oder Abwahl mit Zweiteldrittelmehrheit
+durch das Plenum. Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der
+ausrichtenden Fachschaft anzukündigen.
+
+Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
+Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
+Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
+einer Tagung statt.
 
 Falls mehr als zwei Drittel der Mitglieder eines Gremiums das Amt niederlegt
 haben ist das gesamte Gremium neu zu besetzen.
