@@ -48,7 +48,7 @@ Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet, so
 nicht anders geregelt, mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder
-der Amtsinhaberin, Niederlegung des Amtes oder Abwahl mit Zweiteldrittelmehrheit
+der Amtsinhaberin, Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit
 durch das Plenum. Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der
 ausrichtenden Fachschaft anzukündigen.
 
@@ -58,7 +58,7 @@ Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
 einer Tagung statt.
 Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 
-Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen
+Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen,
 endet auch die Amtszeit der übrigen Mitglieder.
 
 (a) Das ZaPF-Plenum
