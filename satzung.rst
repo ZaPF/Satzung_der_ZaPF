@@ -46,11 +46,11 @@ Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
 Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
 Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
-Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet, so
-nicht anders geregelt, mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder
-der Amtsinhaberin, Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit
-durch das Plenum. Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der
-ausrichtenden Fachschaft anzukündigen.
+Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet mit
+Ablauf der Amtszeit, Ableben des Amtsinhabers oder der Amtsinhaberin,
+Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der
+Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft
+anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -198,4 +198,5 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2013 in Jena,
 - Sommer-ZaPF 2014 in Düsseldorf,
 - Winter-ZaPF 2014 in Bremen,
-- und auf der Sommer-ZaPF in Aachen.
+- Sommer-ZaPF 2015 in Aachen,
+- und auf der Winter-ZaPF 2015 in Frankfurt am Main.
