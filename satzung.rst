@@ -59,7 +59,7 @@ einer Tagung statt.
 Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 
 Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen,
-endet auch die Amtszeit der übrigen Mitglieder.
+gelten auch die Ämter der übrigen Mitglieder dieses Gremiums als vakant.
 
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
