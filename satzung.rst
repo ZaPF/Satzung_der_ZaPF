@@ -130,7 +130,10 @@ die Veröffentlichung gemeinsamer Beschlüsse.
 Weiterhin entsendet dieses Gremium einen gemeinsamen Vertreter oder eine
 gemeinsame Vertreterin zur KFP.
 
-Die ZaPF und jDPG entsenden je ein Mitglied in das Kommunikationsgremium.
+Die ZaPF entsendet zwei Mitglieder in das Kommunikationsgremium.
+
+Davon beginnt die Amtszeit eines Mitgliedes auf einer ZaPF im Sommersemester und
+die des anderen Mitgliedes auf einer ZaPF im Wintersemester.
 
 Die Amtszeit der Mitglieder im Kommunikationsgremium beläuft sich auf ein Jahr.
 
