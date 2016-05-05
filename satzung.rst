@@ -105,8 +105,11 @@ Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaP
 verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
 Der StAPF wählt sich aus seiner Mitte einen Sprecher.
 
-Sollte kein StAPF gewählt werden übernimmt das Plenum der ZaPF die Aufgaben
-des StAPF.
+Sollte kein StAPF gewählt werden, übernehmen die von der ZaPF entsandten
+Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind, die
+Mitglieder des Technischen Organisationsausschuss aller Physikfachschaften oder
+die Mitglieder der die ZaPF ausrichtenden Fachschaft die Archivierungs- und
+Veröffentlichungsaufgaben des StAPF.
 
 (c) Die Vertrauenspersonen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
