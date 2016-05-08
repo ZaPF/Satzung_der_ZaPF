@@ -97,6 +97,9 @@ Der StAPF ist an die Weisungen des Plenums gebunden, kann jedoch
 eigenverantwortlich handeln und muss seine Beschlüsse dem ZaPF-Plenum gegenüber
 vertreten.
 Die Entscheidungen innerhalb des StAPF müssen in diesen Fällen einstimmig fallen.
+Der StAPF ist beschlussfähig falls mindestens drei seiner Mitglieder auf einer
+Sitzung anwesend sind und der Beschluss in der Sitzungseinladung angekündigt
+wurde.
 
 Der StAPF gibt Informationen umgehend an die Fachschaften weiter.
 Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
