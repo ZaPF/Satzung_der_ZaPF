@@ -82,7 +82,7 @@ Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Öffentlichkeit.
 
-Der StAPF besteht aus maximal fünf Physik-Studierenden von mindestens drei
+Der StAPF besteht aus maximal fünf natürlichen Personen von mindestens drei
 verschiedenen Hochschulen, welche für jeweils ein Jahr gewählt werden.
 
 Die Amtszeit von drei Mitgliedern des StAPF beginnt zu einer im Sommersemester
