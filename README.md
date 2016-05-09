@@ -10,7 +10,7 @@ werden.
 
 ### Homepage
 
-* <https://vmp.ethz.ch/zapfwiki/index.php/Satzung_der_ZaPF>
+* <https://zapf.wiki/Satzung_der_ZaPF>
 
 ### Kontakt
 
