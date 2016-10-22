@@ -48,7 +48,7 @@ Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet mit
 Ablauf der Amtszeit, Ableben des Amtsinhabers oder der Amtsinhaberin,
-Niederlegung des Amtes oder Abwahl Plenum.
+Niederlegung des Amtes oder Abwahl durch das Plenum.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
