@@ -68,7 +68,7 @@ Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
 sich aus allen Teilnehmerinnen und Teilnehmern der jeweiligen ZaPF zusammen.
 
 Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet.
-Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnern
+Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnen
 für den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und
 ähnliche Gremien.
 
