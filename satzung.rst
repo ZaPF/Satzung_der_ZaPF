@@ -18,13 +18,17 @@ Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 §3 Aufgaben
 -----------
 
-Die ZaPF findet einmal pro Semester statt; sie tagt öffentlich. Sie befasst
-sich mit hochschul- und studienrelevanten Themenbereichen.
+Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem
+Sammeln und der Diskussion von Informationen und tritt mit den Resultaten
+gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
+Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den
+Fachschaften.
 
-Die ZaPF dient dem Sammeln und der Diskussion von Informationen zu diesen Themen
-und tritt mit Resultaten gegebenenfalls an die Öffentlichkeit, besitzt aber kein
-allgemeinpolitisches Mandat.
-Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den Fachschaften.
+Die ZaPF befasst sich mit studien- und hochschulrelevanten Themen. Sie besitzt
+kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug auf
+hochschulpolitische Themen auch allgemeinpolitisch äußern. Hierbei muss ein
+Zusammenhang zu studien- und hochschulpolitischen Belangen unmittelbar bestehen
+und deutlich erkennbar bleiben.
 
 §4 Tagung
 ---------
@@ -211,3 +215,50 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2015 in Aachen,
 - Winter-ZaPF 2015 in Frankfurt am Main,
 - und auf der Sommer-ZaPF 2016 in Konstanz.
+
+Anhang: Kommentare zu Satzung und Begriffsklärung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Politisches Mandat
+------------------
+
+Die Fachschaften als Teil der Verfassten Studierendenschaften haben nach
+gängiger Rechtsauffassung kein allgemeinpolitisches Mandat. Es ist ihnen deshalb
+verboten allgemeinpolitische Meinungen und Forderungen zu formulieren und zu
+propagieren. Zudem dürfen sie auch Dritte, die ein allgemeinpolitisches Mandat
+beanspruchen und entsprechende Aktivitäten entfalten nicht durch Mitarbeit,
+Geld- oder Sachzuwendungen unterstützen.
+
+Hierbei ist es irrelevant, ob sich die einzelnen Fachschaften eine Satzung
+gegeben haben, welche ein allgemeinpolitisches Mandat ausschließt, oder nicht.
+
+Allerdings räumte das Bundesverfassungsgericht mit seinem Urteil vom 4. August
+2000 [BVerfG Az. 1 BvR 1510/99] den Studierendenschaften (und damit den
+Fachschaften) die Möglichkeit eines sogenannten Brückenschlags ein, wonach bei
+der Behandlung hochschulpolitischer Themen allerdings ein "Brückenschlag" zu
+allgemeinpolitischen Fragestellungen erlaubt ist, solange und soweit dabei der
+Zusammenhang zu studien- und hochschulpolitischen Belangen unmittelbar besteht
+und deutlich erkennbar bleibt.
+
+Zahlreiche weitere Urteile von Gerichten stecken hierbei den Rahmen mehr und
+mehr ab. Beispielurteile:
+
+- Studentenschaft Universität Münster (2. Oktober 1996, OVG Münster)
+- Studentenschaft Universität Bonn (1996, VG Köln, 6 L 28/96)
+- Studentenschaft Universität Wuppertal (1996, VG Düsseldorf, 15 L 781/96)
+- Studentenschaft Freie Universität Berlin (Oberverwaltungsgericht
+  Berlin, 15. Januar 2004, 8 S 133.03)
+- Studentenschaft Universität Trier (Oberverwaltungsgericht Koblenz, Beschluss
+  vom 28. Januar 2005 - 2 B 12002/04)
+- Studentenschaft Humboldt-Universität Berlin (Oberverwaltungsgericht Berlin,
+  Beschluss vom 4. Mai 2005 - 8 N 196.02)
+
+Es ist deshalb unerlässlich für die ZaPF den Anspruch an ein
+allgemeinpolitisches Mandat abzulehnen. Allerdings kann sie unter den
+erläuterten Umständen mit den gegebenen Mittel zu allgemeinpolitischen Themen
+Meinungen und Forderungen bilden.
+
+Haben einzelne Fachschaften ein enger gefasstes politisches Mandat, so können
+diese einen GO-Antrag auf Nichtbefassung in Zusammenhang mit namentlicher
+Abstimmung stellen um kenntlich zu machen, dass sie diesen Tagesordnungspunkt
+nicht behandelt haben.
