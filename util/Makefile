@@ -1,10 +1,13 @@
 # Dies ist das Makefile um die verschiedenen Publikationsversionen der Satzung
 # der ZaPF
 
-all: html tex pdf wiki
+all: html tex pdf wiki md
 
 html: ../satzung.rst
 	rst2html ../satzung.rst > ../versions/satzung.html
+
+md: ../satzung.rst
+	pandoc --from=rst --to=markdown --output=../versions/satzung.md ../satzung.rst 
 
 tex: ../satzung.rst
 	rst2latex --documentclass=scrartcl --documentoptions=12pt,oneside --stylesheet=./preamble.tex --embed-stylesheet --latex-preamble= ../satzung.rst > ../versions/satzung.tex
