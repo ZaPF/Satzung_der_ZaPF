@@ -173,6 +173,8 @@ Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester
 stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden
 ZaPF.
 
+Die Amtszeit der Hauptverantwortlichen beträgt ein Jahr.
+
 §6 Satzungsänderungen
 ---------------------
 
