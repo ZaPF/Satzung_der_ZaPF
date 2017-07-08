@@ -18,13 +18,17 @@ Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 §3 Aufgaben
 -----------
 
-Die ZaPF findet einmal pro Semester statt; sie tagt öffentlich. Sie befasst
-sich mit hochschul- und studienrelevanten Themenbereichen.
+Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem
+Sammeln und der Diskussion von Informationen und tritt mit den Resultaten
+gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
+Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den
+Fachschaften.
 
-Die ZaPF dient dem Sammeln und der Diskussion von Informationen zu diesen Themen
-und tritt mit Resultaten gegebenenfalls an die Öffentlichkeit, besitzt aber kein
-allgemeinpolitisches Mandat.
-Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den Fachschaften.
+Die ZaPF befasst sich mit studien- und hochschulrelevanten Themen. Sie besitzt
+kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug auf
+hochschulpolitische Themen auch allgemeinpolitisch äußern. Hierbei muss ein
+Zusammenhang zu studien- und hochschulpolitischen Belangen unmittelbar bestehen
+und deutlich erkennbar bleiben.
 
 §4 Tagung
 ---------
