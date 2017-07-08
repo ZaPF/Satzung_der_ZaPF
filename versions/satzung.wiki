@@ -8,8 +8,8 @@ Die Tagung der Vertreterinnen und Vertreter der Physik-Fachschaften trägt den N
 Die ZaPF setzt sich aus Vertretern und Vertreterinnen und Mitgliedern der Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 == §3 Aufgaben ==
 
-Die ZaPF findet einmal pro Semester statt; sie tagt öffentlich. Sie befasst sich mit hochschul- und studienrelevanten Themenbereichen.
-Die ZaPF dient dem Sammeln und der Diskussion von Informationen zu diesen Themen und tritt mit Resultaten gegebenenfalls an die Öffentlichkeit, besitzt aber kein allgemeinpolitisches Mandat. Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den Fachschaften.
+Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem Sammeln und der Diskussion von Informationen und tritt mit den Resultaten gegebenenfalls an die Öffentlichkeit oder an Dritte heran. Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den Fachschaften.
+Die ZaPF befasst sich mit studien- und hochschulrelevanten Themen. Sie besitzt kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug auf hochschulpolitische Themen auch allgemeinpolitisch äußern. Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen unmittelbar bestehen und deutlich erkennbar bleiben.
 == §4 Tagung ==
 
 Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader. Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
@@ -24,7 +24,7 @@ Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen,
 === (a) Das ZaPF-Plenum ===
 
 Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt sich aus allen Teilnehmerinnen und Teilnehmern der jeweiligen ZaPF zusammen.
-Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet. Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnern für den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und ähnliche Gremien.
+Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet. Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnen für den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und ähnliche Gremien.
 Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF.
 Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 === (b) Der Ständige Ausschuss der Physik-Fachschaften ===
@@ -57,6 +57,7 @@ Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die Aufrechter
 Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit, Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als auch für einzelne Projekte zu bestimmen.
 Die freiwilligen Helfer werden nicht gewählt, sondern durch die beiden Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
 Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden ZaPF.
+Die Amtszeit der Hauptverantwortlichen beträgt ein Jahr.
 == §6 Satzungsänderungen ==
 
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum abgestimmt werden.
@@ -75,7 +76,8 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 *Winter-ZaPF 2014 in Bremen,
 *Sommer-ZaPF 2015 in Aachen,
 *Winter-ZaPF 2015 in Frankfurt am Main,
-*und auf der Sommer-ZaPF 2016 in Konstanz.
+*Sommer-ZaPF 2016 in Konstanz,
+*und auf der Sommer-ZaPF 2017 in Berlin.
 
 
 
