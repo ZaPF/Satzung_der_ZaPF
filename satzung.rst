@@ -68,9 +68,9 @@ gelten auch die Ämter der übrigen Mitglieder dieses Gremiums als vakant.
 Für Amtszeiten sei ein Jahr definiert als die Zeit zwischen einer Sommer-ZaPF
 und der ihr nächsten nachfolgenden Sommer-ZaPF bzw. einer Winter-ZaPF und der
 ihr nächsten nachfolgenden Winter-ZaPF. Das Jahr beginnt mit dem Plenum in dem
-die Wahl für ein Organ stattfindet und endet mit dem Plenum in dem die Wahl zur
-Neubesetzung der entsprechenden Plätze des Organs stattfindet, spätestens jedoch
-mit dem Ende der Tagung.
+die Wahl für ein Organ turnusmäßig stattfindet und endet mit dem Plenum in dem
+die Wahl zur Neubesetzung der entsprechenden Plätze des Organs turnusmäßig
+stattfindet, spätestens jedoch mit dem Ende der Tagung.
 
 (a) Das ZaPF-Plenum
 ^^^^^^^^^^^^^^^^^^^
