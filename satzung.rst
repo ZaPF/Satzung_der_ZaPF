@@ -226,4 +226,5 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2015 in Aachen,
 - Winter-ZaPF 2015 in Frankfurt am Main,
 - Sommer-ZaPF 2016 in Konstanz,
-- und auf der Sommer-ZaPF 2017 in Berlin.
+- Sommer-ZaPF 2017 in Berlin,
+- und auf der Winter-ZaPF 2018 in Würzburg.
