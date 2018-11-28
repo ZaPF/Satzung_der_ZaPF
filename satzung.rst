@@ -6,8 +6,9 @@ Satzung der ZaPF
 -------
 
 Die Tagung der vertretenden Personen der Physik-Fachschaften trägt den Namen
-Zusammenkunft aller Physik-Fachschaften, kurz ZaPF. Sie ist die
-Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
+Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
+Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa
+Physik).
 
 §2 Mitglieder
 -------------
@@ -18,24 +19,24 @@ Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 §3 Aufgaben
 -----------
 
-Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem
-Sammeln und der Diskussion von Informationen und tritt mit den Resultaten
-gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
+Die ZaPF findet einmal pro Semester statt und tagt öffentlich.
+Sie dient dem Sammeln und der Diskussion von Informationen und tritt mit den
+Resultaten gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
 Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den
 Fachschaften.
 
 Die ZaPF befasst sich mit studien- und hochschulrelevanten Themen. Sie besitzt
 kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug auf
-hochschulpolitische Themen auch allgemeinpolitisch äußern. Hierbei muss ein
-Zusammenhang zu studien- und hochschulpolitischen Belangen unmittelbar bestehen
-und deutlich erkennbar bleiben.
+hochschulpolitische Themen auch allgemeinpolitisch äußern.
+Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
+unmittelbar bestehen und deutlich erkennbar bleiben.
 
 §4 Tagung
 ---------
 
 Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
-erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader. Sie
-stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
+erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader.
+Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
 
 Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 
@@ -52,8 +53,9 @@ Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet mit
 Ablauf der Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes
-oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist
-bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft anzukündigen.
+oder Abwahl mit Zweidrittelmehrheit durch das Plenum.
+Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden
+Fachschaft anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -171,28 +173,30 @@ hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen
 Helfenden, die für die Dokumentation und den Betrieb von einzelnen Projekten
 verantwortlich sind.
 
-Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig
-und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit,
-Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als
-auch für einzelne Projekte zu bestimmen.
+Die hauptverantwortlichen Personen sind dem Plenum und dem StAPF
+rechenschaftspflichtig und an ihre Weisungen gebunden.
+Insbesondere hat das Plenum die Möglichkeit, Datenschutzerklärungen und
+Nutzungsordnungen sowohl für das Gesamtsystem als auch für einzelne Projekte zu
+bestimmen.
 
 Die freiwilligen Helfenden werden nicht gewählt, sondern durch die beiden
-Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig
-sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
+hauptverantwortlichen Personen gemeinsam bestimmt.
+Sie sind ihnen rechenschaftspflichtig sowie an deren Weisungen und die
+erlassenen Ordnungen gebunden.
 
-Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester
-stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden
-ZaPF.
+Die Amtszeit einer hauptverantwortlichen Person beginnt zu einer im
+Sommersemester stattfindenden ZaPF, die des anderen zu einer im Wintersemester
+stattfindenden ZaPF.
 
-Die Amtszeit der Hauptverantwortlichen beträgt ein Jahr.
+Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 
 §6 Satzungsänderungen
 ---------------------
 
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
-des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen
-sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum
-abgestimmt werden.
+des Plenums vor der Abstimmung zwingend festzustellen ist.
+Satzungsänderungen sind nicht durch Initiativanträge möglich und können nur auf
+dem Endplenum abgestimmt werden.
 
 Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor dem
 Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste)
