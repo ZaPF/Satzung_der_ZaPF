@@ -5,15 +5,15 @@ Satzung der ZaPF
 §1 Name
 -------
 
-Die Tagung der Vertreterinnen und Vertreter der Physik-Fachschaften trägt den
-Namen Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
-Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
+Die Tagung der vertretenden Personen der Physik-Fachschaften trägt den Namen
+Zusammenkunft aller Physik-Fachschaften, kurz ZaPF. Sie ist die
+Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
 
 §2 Mitglieder
 -------------
 
-Die ZaPF setzt sich aus Vertretern und Vertreterinnen und Mitgliedern der
-Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
+Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
+Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 
 §3 Aufgaben
 -----------
@@ -51,10 +51,9 @@ Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
 Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet mit
-Ablauf der Amtszeit, Ableben des Amtsinhabers oder der Amtsinhaberin,
-Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der
-Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft
-anzukündigen.
+Ablauf der Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes
+oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist
+bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -78,12 +77,12 @@ Tagung.
 ^^^^^^^^^^^^^^^^^^^
 
 Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
-sich aus allen Teilnehmerinnen und Teilnehmern der jeweiligen ZaPF zusammen.
+sich aus allen teilnehmenden Personen der jeweiligen ZaPF zusammen.
 
-Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet.
-Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnen
-für den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und
-ähnliche Gremien.
+Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum
+vorbereitet. Zu seinen Beschlusskompetenzen zählt auch die Wahl der
+vertretenden Personen für den studentischen Akkreditierungspool für Bachelor-
+und Masterstudiengänge und ähnliche Gremien.
 
 Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF.
 
@@ -147,8 +146,7 @@ Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und jDPG.
 
 Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie
 die Veröffentlichung gemeinsamer Beschlüsse.
-Weiterhin entsendet dieses Gremium einen gemeinsamen Vertreter oder eine
-gemeinsame Vertreterin zur KFP.
+Weiterhin entsendet dieses Gremium eine gemeinsame vertretende Person zur KFP.
 
 Die ZaPF entsendet zwei Mitglieder in das Kommunikationsgremium.
 
@@ -169,16 +167,16 @@ die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
 
 Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die
 Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme
-hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen Helfern,
-die für die Dokumentation und den Betrieb von einzelnen Projekten verantwortlich
-sind.
+hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen
+Helfenden, die für die Dokumentation und den Betrieb von einzelnen Projekten
+verantwortlich sind.
 
 Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig
 und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit,
 Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als
 auch für einzelne Projekte zu bestimmen.
 
-Die freiwilligen Helfer werden nicht gewählt, sondern durch die beiden
+Die freiwilligen Helfenden werden nicht gewählt, sondern durch die beiden
 Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig
 sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
 
