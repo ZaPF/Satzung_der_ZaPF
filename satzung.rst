@@ -173,22 +173,22 @@ hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen
 Helfenden, die für die Dokumentation und den Betrieb von einzelnen Projekten
 verantwortlich sind.
 
-Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig
-und an ihre Weisungen gebunden.
+Die hauptverantwortlichen Personen sind dem Plenum und dem StAPF
+rechenschaftspflichtig und an ihre Weisungen gebunden.
 Insbesondere hat das Plenum die Möglichkeit, Datenschutzerklärungen und
 Nutzungsordnungen sowohl für das Gesamtsystem als auch für einzelne Projekte zu
 bestimmen.
 
 Die freiwilligen Helfenden werden nicht gewählt, sondern durch die beiden
-Hauptverantwortlichen gemeinsam bestimmt.
+hauptverantwortlichen Personen gemeinsam bestimmt.
 Sie sind ihnen rechenschaftspflichtig sowie an deren Weisungen und die
 erlassenen Ordnungen gebunden.
 
-Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester
-stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden
-ZaPF.
+Die Amtszeit einer hauptverantwortlichen Person beginnt zu einer im
+Sommersemester stattfindenden ZaPF, die des anderen zu einer im Wintersemester
+stattfindenden ZaPF.
 
-Die Amtszeit der Hauptverantwortlichen beträgt ein Jahr.
+Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 
 §6 Satzungsänderungen
 ---------------------
