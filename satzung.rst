@@ -50,11 +50,11 @@ Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
 Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
 Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
-Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet mit
-Ablauf der Amtszeit, Ableben des Amtsinhabers oder der Amtsinhaberin,
-Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der
-Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft
-anzukündigen.
+Die Mitgliedschaft im StAPF, den Vertrauenspersonen, dem Kommunikationsgremium
+oder dem TOPF endet mit Ablauf der Amtszeit, Ableben des Amtsinhabers oder der
+Amtsinhaberin, Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch
+das Plenum. Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der
+ausrichtenden Fachschaft anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -135,8 +135,10 @@ Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
 
 Die Wahl der höchstens sechs Vertrauenspersonen ist zu Beginn jeder ZaPF durchzuführen.
-Ihre Amtszeit endet mit der Neuwahl der Vertrauenspersonen, Niederlegung des 
-Amtes oder Ableben des Amtsinhabers oder der Amtsinhaberin.
+
+Die Amtszeit der Vertrauenspersonen beginnt mit der Annahme der Wahl und endet
+mit Beginn der nächsten ZaPF. Für vakante Plätze bei den Vertrauenspersonen
+findet keine Nachwahl statt.
 
 Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
 gesondert zu regeln.
