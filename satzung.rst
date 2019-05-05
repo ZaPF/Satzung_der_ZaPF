@@ -137,7 +137,8 @@ Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
 
 Die Wahl der höchstens sechs Vertrauenspersonen ist zu Beginn jeder ZaPF durchzuführen.
-Ihre Amtszeit endet mit der Neuwahl der Vertrauenspersonen oder Niederlegung des Amtes.
+Ihre Amtszeit endet mit der Neuwahl der Vertrauenspersonen, Niederlegung des 
+Amtes oder Ableben des Amtsinhabers oder der Amtsinhaberin.
 
 Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
 gesondert zu regeln.
