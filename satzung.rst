@@ -185,7 +185,7 @@ Sie sind ihnen rechenschaftspflichtig sowie an deren Weisungen und die
 erlassenen Ordnungen gebunden.
 
 Die Amtszeit einer hauptverantwortlichen Person beginnt zu einer im
-Sommersemester stattfindenden ZaPF, die des anderen zu einer im Wintersemester
+Sommersemester stattfindenden ZaPF, die der anderen zu einer im Wintersemester
 stattfindenden ZaPF.
 
 Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
