@@ -120,7 +120,8 @@ Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
 
 Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaPF
 verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
-Der StAPF wählt sich aus seiner Mitte einen Sprecher.
+Der StAPF wählt sich aus seiner Mitte eine ihn repräsentierende Person. Diese
+Person darf sich als "die Stimme der ZaPF" bezeichnen.
 
 Sollten alle Posten des StAPFes vakant sein, übernehmen die von der ZaPF
 entsandten Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind,
@@ -148,7 +149,7 @@ Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und jDPG.
 
 Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie
 die Veröffentlichung gemeinsamer Beschlüsse.
-Weiterhin entsendet dieses Gremium eine gemeinsame vertretende Person zur KFP.
+Weiterhin entsendet dieses Gremium gemeinsam eine vertretende Person zur KFP.
 
 Die ZaPF entsendet zwei Mitglieder in das Kommunikationsgremium.
 
@@ -169,7 +170,7 @@ die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
 
 Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die
 Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme
-hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen
+hauptverantwortlich sind, und einer beliebigen Anzahl von freiwillig
 Helfenden, die für die Dokumentation und den Betrieb von einzelnen Projekten
 verantwortlich sind.
 
@@ -179,7 +180,7 @@ Insbesondere hat das Plenum die Möglichkeit, Datenschutzerklärungen und
 Nutzungsordnungen sowohl für das Gesamtsystem als auch für einzelne Projekte zu
 bestimmen.
 
-Die freiwilligen Helfenden werden nicht gewählt, sondern durch die beiden
+Die freiwillig Helfenden werden nicht gewählt, sondern durch die beiden
 hauptverantwortlichen Personen gemeinsam bestimmt.
 Sie sind ihnen rechenschaftspflichtig sowie an deren Weisungen und die
 erlassenen Ordnungen gebunden.
