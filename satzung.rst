@@ -5,37 +5,38 @@ Satzung der ZaPF
 §1 Name
 -------
 
-Die Tagung der Vertreterinnen und Vertreter der Physik-Fachschaften trägt den
-Namen Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
-Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa Physik).
+Die Tagung der vertretenden Personen der Physik-Fachschaften trägt den Namen
+Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
+Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa
+Physik).
 
 §2 Mitglieder
 -------------
 
-Die ZaPF setzt sich aus Vertretern und Vertreterinnen und Mitgliedern der
-Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
+Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
+Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 
 §3 Aufgaben
 -----------
 
-Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie dient dem
-Sammeln und der Diskussion von Informationen und tritt mit den Resultaten
-gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
+Die ZaPF findet einmal pro Semester statt und tagt öffentlich.
+Sie dient dem Sammeln und der Diskussion von Informationen und tritt mit den
+Resultaten gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
 Des Weiteren dient sie zum Gedanken- und Ideenaustausch zwischen den
 Fachschaften.
 
 Die ZaPF befasst sich mit studien- und hochschulrelevanten Themen. Sie besitzt
 kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug auf
-hochschulpolitische Themen auch allgemeinpolitisch äußern. Hierbei muss ein
-Zusammenhang zu studien- und hochschulpolitischen Belangen unmittelbar bestehen
-und deutlich erkennbar bleiben.
+hochschulpolitische Themen auch allgemeinpolitisch äußern.
+Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
+unmittelbar bestehen und deutlich erkennbar bleiben.
 
 §4 Tagung
 ---------
 
 Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
-erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader. Sie
-stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
+erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader.
+Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
 
 Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 
@@ -51,10 +52,10 @@ Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
 Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
 Die Mitgliedschaft im StAPF, dem Kommunikationsgremium oder dem TOPF endet mit
-Ablauf der Amtszeit, Ableben des Amtsinhabers oder der Amtsinhaberin,
-Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der
-Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft
-anzukündigen.
+Ablauf der Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes
+oder Abwahl mit Zweidrittelmehrheit durch das Plenum.
+Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden
+Fachschaft anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -78,12 +79,12 @@ Tagung.
 ^^^^^^^^^^^^^^^^^^^
 
 Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
-sich aus allen Teilnehmerinnen und Teilnehmern der jeweiligen ZaPF zusammen.
+sich aus allen teilnehmenden Personen der jeweiligen ZaPF zusammen.
 
-Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum vorbereitet.
-Zu seinen Beschlusskompetenzen zählt auch die Wahl der Vertreter und Vertreterinnen
-für den studentischen Akkreditierungspool für Bachelor- und Masterstudiengänge und
-ähnliche Gremien.
+Einzelne Themen werden in Arbeitskreisen diskutiert und für das Plenum
+vorbereitet. Zu seinen Beschlusskompetenzen zählt auch die Wahl der
+vertretenden Personen für den studentischen Akkreditierungspool für Bachelor-
+und Masterstudiengänge und ähnliche Gremien.
 
 Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF.
 
@@ -119,7 +120,8 @@ Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
 
 Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaPF
 verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
-Der StAPF wählt sich aus seiner Mitte einen Sprecher.
+Der StAPF wählt sich aus seiner Mitte eine ihn repräsentierende Person. Diese
+Person darf sich als die "STIMME der ZaPF" bezeichnen.
 
 Sollten alle Posten des StAPFes vakant sein, übernehmen die von der ZaPF
 entsandten Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind,
@@ -147,8 +149,7 @@ Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und jDPG.
 
 Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie
 die Veröffentlichung gemeinsamer Beschlüsse.
-Weiterhin entsendet dieses Gremium einen gemeinsamen Vertreter oder eine
-gemeinsame Vertreterin zur KFP.
+Weiterhin entsendet dieses Gremium gemeinsam eine vertretende Person zur KFP.
 
 Die ZaPF entsendet zwei Mitglieder in das Kommunikationsgremium.
 
@@ -169,32 +170,34 @@ die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
 
 Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die
 Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme
-hauptverantwortlich sind, und einer beliebigen Anzahl von freiwilligen Helfern,
-die für die Dokumentation und den Betrieb von einzelnen Projekten verantwortlich
-sind.
+hauptverantwortlich sind, und einer beliebigen Anzahl von freiwillig
+Helfenden, die für die Dokumentation und den Betrieb von einzelnen Projekten
+verantwortlich sind.
 
-Die Hauptverantwortlichen sind dem Plenum und dem StAPF rechenschaftspflichtig
-und an ihre Weisungen gebunden. Insbesondere hat das Plenum die Möglichkeit,
-Datenschutzerklärungen und Nutzungsordnungen sowohl für das Gesamtsystem als
-auch für einzelne Projekte zu bestimmen.
+Die hauptverantwortlichen Personen sind dem Plenum und dem StAPF
+rechenschaftspflichtig und an ihre Weisungen gebunden.
+Insbesondere hat das Plenum die Möglichkeit, Datenschutzerklärungen und
+Nutzungsordnungen sowohl für das Gesamtsystem als auch für einzelne Projekte zu
+bestimmen.
 
-Die freiwilligen Helfer werden nicht gewählt, sondern durch die beiden
-Hauptverantwortlichen gemeinsam bestimmt. Sie sind ihnen rechenschaftspflichtig
-sowie an deren Weisungen und die erlassenen Ordnungen gebunden.
+Die freiwillig Helfenden werden nicht gewählt, sondern durch die beiden
+hauptverantwortlichen Personen gemeinsam bestimmt.
+Sie sind ihnen rechenschaftspflichtig sowie an deren Weisungen und die
+erlassenen Ordnungen gebunden.
 
-Die Amtszeit eines Hauptverantwortlichen beginnt zu einer im Sommersemester
-stattfindenden ZaPF, die des anderen zu einer im Wintersemester stattfindenden
-ZaPF.
+Die Amtszeit einer hauptverantwortlichen Person beginnt zu einer im
+Sommersemester stattfindenden ZaPF, die der anderen zu einer im Wintersemester
+stattfindenden ZaPF.
 
-Die Amtszeit der Hauptverantwortlichen beträgt ein Jahr.
+Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 
 §6 Satzungsänderungen
 ---------------------
 
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
-des Plenums vor der Abstimmung zwingend festzustellen ist. Satzungsänderungen
-sind nicht durch Initiativanträge möglich und können nur auf dem Endplenum
-abgestimmt werden.
+des Plenums vor der Abstimmung zwingend festzustellen ist.
+Satzungsänderungen sind nicht durch Initiativanträge möglich und können nur auf
+dem Endplenum abgestimmt werden.
 
 Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor dem
 Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste)
