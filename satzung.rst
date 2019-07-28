@@ -121,7 +121,7 @@ Auf jeder ZaPF ist darüber hinaus ein Rechenschaftsbericht vorzulegen.
 Der StAPF ist für die Archivierung und Veröffentlichung der Ergebnisse der ZaPF
 verantwortlich, des Weiteren ist er Unterzeichner der ZaPF-Veröffentlichungen.
 Der StAPF wählt sich aus seiner Mitte eine ihn repräsentierende Person. Diese
-Person darf sich als "DIE STIMME der ZaPF" bezeichnen.
+Person darf sich als die "STIMME der ZaPF" bezeichnen.
 
 Sollten alle Posten des StAPFes vakant sein, übernehmen die von der ZaPF
 entsandten Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind,
