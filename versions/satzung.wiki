@@ -19,7 +19,7 @@ Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium (KomGrem) und der Technische Organisationsausschuss aller Physikfachschaften (TOPF).
 Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 Die Mitgliedschaft im StAPF, der Gruppe den Vertrauenspersonen, dem Kommunikationsgremium oder dem TOPF endet mit Ablauf der Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft anzukündigen.
-Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das Amt bis zum Ablauf der Restdauer der Amtszeit besetzt. Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum einer Tagung statt. Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
+Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das Amt bis zum Ablauf der Restdauer der Amtszeit besetzt. Die Nachwahl findet auf einem Plenum der nächstmöglichen Tagung statt. Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen, gelten auch die Ämter der übrigen Mitglieder dieses Gremiums als vakant.
 Für Amtszeiten sei ein Jahr definiert als die Zeit zwischen einer Sommer-ZaPF und der ihr nächsten nachfolgenden Sommer-ZaPF bzw. einer Winter-ZaPF und der ihr nächsten nachfolgenden Winter-ZaPF. Das Jahr beginnt mit dem Ende des Plenums in dem die Wahl für ein Organ turnusmäßig stattfindet. Es endet mit dem Plenum, in dem die Wahl zur Neubesetzung der entsprechenden Plätze des Organs turnusmäßig stattfindet, spätestens jedoch mit dem Ende der Tagung.
 === (a) Das ZaPF-Plenum ===
@@ -82,7 +82,8 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 *Sommer-ZaPF 2016 in Konstanz,
 *Sommer-ZaPF 2017 in Berlin,
 *Winter-ZaPF 2018 in Würzburg,
-*und der Sommer-ZaPF 2019 in Bonn.
+*Sommer-ZaPF 2019 in Bonn,
+*und der Winter-ZaPF 2019 in Freiburg.
 
 
 
