@@ -59,8 +59,7 @@ Fachschaft anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
-Die Nachwahl findet zum nächstmöglichen Zeitpunkt auf einem Abschlussplenum
-einer Tagung statt.
+Die Nachwahl findet auf einem Plenum der nächstmöglichen Tagung statt.
 Sollten nach einer Wahl Posten unbesetzt sein, bleiben sie vakant.
 
 Falls mindestens zwei Drittel der Mitglieder eines Gremiums das Amt niederlegen,
