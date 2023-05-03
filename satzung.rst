@@ -16,6 +16,8 @@ Physik).
 Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
 Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 
+Die Mitglieder verpflichten sich zur Einhaltung des Verhaltenskodex der ZaPF.
+
 §3 Aufgaben
 -----------
 
@@ -85,7 +87,8 @@ vorbereitet. Zu seinen Beschlusskompetenzen zählt auch die Wahl der
 vertretenden Personen für den studentischen Akkreditierungspool für Bachelor-
 und Masterstudiengänge und ähnliche Gremien.
 
-Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF.
+Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF und
+den Verhaltenskodex der ZaPF.
 
 Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 
