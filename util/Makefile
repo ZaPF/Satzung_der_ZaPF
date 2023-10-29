@@ -1,21 +1,21 @@
 # Dies ist das Makefile um die verschiedenen Publikationsversionen der Satzung
 # der ZaPF
 
-all: html tex pdf wiki
+all: html wiki tex pdf
 
-html: ../satzung.rst
-	rst2html ../satzung.rst > ../versions/satzung.html
+html: ../satzung.md
+	pandoc --standalone --metadata-file=./metadata.yml --number-sections --output=../versions/satzung.html ../satzung.md
 
-tex: ../satzung.rst
-	rst2latex --documentclass=scrartcl --documentoptions=12pt,oneside --stylesheet=./preamble.tex --embed-stylesheet --latex-preamble= ../satzung.rst > ../versions/satzung.tex
+tex: ../satzung.md
+	pandoc --standalone --metadata-file=./metadata.yml --number-sections --to=latex --output=../versions/satzung.tex ../satzung.md
 
 pdf: ../versions/satzung.tex
 	pdflatex -output-directory ../versions satzung.tex
 	pdflatex -output-directory ../versions satzung.tex
-	rm ../versions/satzung.{log,aux,out}
+	rm -f ../versions/satzung.{log,aux,out}
 
-wiki: ../satzung.rst
-	./rst2wiki/rst2wiki.py ../satzung.rst > ../versions/satzung.wiki
+wiki: ../satzung.md
+	pandoc --to=mediawiki --lua-filter=remove-attr.lua --output=../versions/satzung.wiki ../satzung.md
 
 clean:
 	rm ../versions/*
