@@ -1,25 +1,18 @@
-================
-Satzung der ZaPF
-================
-
-§1 Name
--------
+# Name
 
 Die Tagung der vertretenden Personen der Physik-Fachschaften trägt den Namen
 Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
 Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa
 Physik).
 
-§2 Mitglieder
--------------
+# Mitglieder
 
 Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
 Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 
 Die Mitglieder verpflichten sich zur Einhaltung des Verhaltenskodex der ZaPF.
 
-§3 Aufgaben
------------
+# Aufgaben
 
 Die ZaPF findet einmal pro Semester statt und tagt öffentlich.
 Sie dient dem Sammeln und der Diskussion von Informationen und tritt mit den
@@ -33,8 +26,7 @@ hochschulpolitische Themen auch allgemeinpolitisch äußern.
 Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
 unmittelbar bestehen und deutlich erkennbar bleiben.
 
-§4 Tagung
----------
+# Tagung
 
 Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
 erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader.
@@ -42,8 +34,7 @@ Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
 
 Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 
-§5 Organe
----------
+# Organe
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
 Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
@@ -76,8 +67,7 @@ Es endet mit dem Plenum, in dem die Wahl zur Neubesetzung der entsprechenden
 Plätze des Organs turnusmäßig stattfindet, spätestens jedoch mit dem Ende der
 Tagung.
 
-(a) Das ZaPF-Plenum
-^^^^^^^^^^^^^^^^^^^
+## Das ZaPF-Plenum
 
 Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF und setzt
 sich aus allen teilnehmenden Personen der jeweiligen ZaPF zusammen.
@@ -92,8 +82,7 @@ den Verhaltenskodex der ZaPF.
 
 Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 
-(b) Der Ständige Ausschuss der Physik-Fachschaften
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Der Ständige Ausschuss der Physik-Fachschaften
 
 Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Öffentlichkeit.
@@ -132,8 +121,7 @@ oder, falls auch diese vakant sind, die Mitglieder der letzten die ZaPF
 ausrichtenden Fachschaft die Archivierungs- und Veröffentlichungsaufgaben des
 StAPF.
 
-(c) Die Vertrauenspersonen
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Die Vertrauenspersonen
 
 Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
@@ -150,8 +138,7 @@ findet keine Nachwahl statt.
 Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
 gesondert zu regeln.
 
-(d) Das Kommunikationsgremium
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Das Kommunikationsgremium
 
 Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und der jDPG
 (junge Deutsche Physikalische Gesellschaft).
@@ -171,8 +158,7 @@ Die Details zur Zusammenarbeit werden durch ein Dokument zur „Zusammenarbeit v
 ZaPF und jDPG“ festgehalten, welches nur durch einen in gleicher Fassung
 verabschiedeten Beschluss von ZaPF und jDPG geändert werden kann.
 
-(e) Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
 
 Der Technische Organisationsausschuss aller Physikfachschaften (TOPF) ist für
 die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
@@ -200,8 +186,7 @@ stattfindenden ZaPF.
 
 Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 
-§6 Satzungsänderungen
----------------------
+# Satzungsänderungen
 
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
 des Plenums vor der Abstimmung zwingend festzustellen ist.
@@ -218,8 +203,7 @@ Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.
 Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
 der die ZaPF ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
 
-Schlussbestimmungen und Änderungshistorie
------------------------------------------
+# Schlussbestimmungen und Änderungshistorie {-}
 
 Die vorliegende Satzung wurde anlässlich der ZaPF '06 in Dresden vorbereitet,
 mit einer Zweidrittelmehrheit der anwesenden Fachschaften beschlossen und
