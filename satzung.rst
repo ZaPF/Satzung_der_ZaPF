@@ -153,22 +153,23 @@ gesondert zu regeln.
 (d) Das Kommunikationsgremium
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und jDPG.
+Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und der jDPG
+(junge Deutsche Physikalische Gesellschaft).
 
-Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie
-die Veröffentlichung gemeinsamer Beschlüsse.
-Weiterhin entsendet dieses Gremium gemeinsam eine vertretende Person zur KFP.
+Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie die
+Unterstützung gemeinsamer Projekte.
 
-Die ZaPF entsendet zwei Mitglieder in das Kommunikationsgremium.
+Das Kommunikationsgremium besteht aus vier natürlichen Personen, wovon von ZaPF
+und von jDPG jeweils zwei Mitglieder bestimmt werden.
 
-Davon beginnt die Amtszeit eines Mitgliedes auf einer ZaPF im Sommersemester und
-die des anderen Mitgliedes auf einer ZaPF im Wintersemester.
+Die ZaPF wählt ihre Mitglieder des Kommunikationsgremiums für eine Amtszeit von
+einem Jahr. Die Amtszeit eines von der ZaPF gewählten Mitglieds beginnt auf
+einer ZaPF im Sommersemester und die des anderen Mitgliedes auf einer ZaPF im
+Wintersemester.
 
-Die Amtszeit der Mitglieder im Kommunikationsgremium beläuft sich auf ein Jahr.
-
-Näheres regelt das Dokument zur "Regelung zur Zusammenarbeit von jDPG und ZaPF
-in hochschulpolitischen Fragestellungen" in der Fassung vom Endplenum der ZaPF
-im Sommersemester 2010 in Frankfurt.
+Die Details zur Zusammenarbeit werden durch ein Dokument zur „Zusammenarbeit von
+ZaPF und jDPG“ festgehalten, welches nur durch einen in gleicher Fassung
+verabschiedeten Beschluss von ZaPF und jDPG geändert werden kann.
 
 (e) Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
