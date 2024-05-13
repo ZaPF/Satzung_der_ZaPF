@@ -10,7 +10,13 @@ Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
 Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa
 Physik).
 
-§2 Mitglieder
+§2 Selbstverständnis
+--------------------
+
+Die ZaPF versteht sich als antifaschistisch, basisdemokratisch und offen für
+alle Menschen.
+
+§3 Mitglieder
 -------------
 
 Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
@@ -18,7 +24,7 @@ Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
 
 Die Mitglieder verpflichten sich zur Einhaltung des Verhaltenskodex der ZaPF.
 
-§3 Aufgaben
+§4 Aufgaben
 -----------
 
 Die ZaPF findet einmal pro Semester statt und tagt öffentlich.
@@ -32,13 +38,6 @@ kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug auf
 hochschulpolitische Themen auch allgemeinpolitisch äußern.
 Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
 unmittelbar bestehen und deutlich erkennbar bleiben.
-
-§4 Verhalten auf ZaPFen
------------------------
-
-Die ZaPF versteht sich als fundamental antifaschistisch, basisdemokratisch und
-offen für alle Menschen. Näheres hierzu regelt das Dokument "Verhaltenskodex
-der ZaPF".
 
 §5 Tagung
 ---------
