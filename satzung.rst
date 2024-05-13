@@ -33,7 +33,14 @@ hochschulpolitische Themen auch allgemeinpolitisch äußern.
 Hierbei muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
 unmittelbar bestehen und deutlich erkennbar bleiben.
 
-§4 Tagung
+§4 Verhalten auf ZaPFen
+-----------------------
+
+Die ZaPF versteht sich als fundamental antifaschistisch, basisdemokratisch und
+offen für alle Menschen. Näheres hierzu regelt das Dokument "Verhaltenskodex
+der ZaPF".
+
+§5 Tagung
 ---------
 
 Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
@@ -42,7 +49,7 @@ Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
 
 Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 
-§5 Organe
+§6 Organe
 ---------
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
@@ -200,7 +207,7 @@ stattfindenden ZaPF.
 
 Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 
-§6 Satzungsänderungen
+§7 Satzungsänderungen
 ---------------------
 
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
