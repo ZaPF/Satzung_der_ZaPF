@@ -126,7 +126,10 @@ StAPF.
 Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende Personen, die
 Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben.
 
-Die Wahl der höchstens sechs Vertrauenspersonen ist zu Beginn jeder ZaPF durchzuführen.
+Zu Beginn jeder ZaPF wählt das Plenum höchstens sechs Vertrauenspersonen, zwei
+weitere Vertrauenspersonen werden von den ausrichtenden Fachschaften
+benannt. Weiterhin sind die beiden Personen des Awarenessgremiums
+Vertrauenspersonen.
 
 Unabhängig von der Zahl der zurückgetretenen Mitglieder gilt die verbliebene
 Gruppe der Vertrauenspersonen weiterhin als gewählt.
