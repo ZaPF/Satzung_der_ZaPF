@@ -37,18 +37,18 @@ Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 # Organe
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
-Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Kommunikationsgremium
-(KomGrem) und der Technische Organisationsausschuss aller Physikfachschaften
-(TOPF).
+Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Awarenessgremium, das
+Kommunikationsgremium (KomGrem) und der Technische Organisationsausschuss aller
+Physikfachschaften (TOPF).
 
-Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
-Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
+Die Wahlen von Mitgliedern des StAPF, des KomGrem, des Awarenessgremiums und des
+TOPF sind Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
-Die Mitgliedschaft im StAPF, der Gruppe den Vertrauenspersonen, dem Kommunikationsgremium
-oder dem TOPF endet mit Ablauf der Amtszeit, Ableben der amtsinhabenden Person,
-Niederlegung des Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum.
-Der Antrag auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden
-Fachschaft anzukündigen.
+Die Mitgliedschaft im StAPF, dem Awarenessgremium, der Gruppe den
+Vertrauenspersonen, dem Kommunikationsgremium oder dem TOPF endet mit Ablauf der
+Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes oder Abwahl
+mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist bis 15:00
+Uhr am Vortag bei der ausrichtenden Fachschaft anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -137,6 +137,25 @@ findet keine Nachwahl statt.
 
 Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
 gesondert zu regeln.
+
+## Das Awarenessgremium
+
+Das Awarenessgremium koordiniert die Arbeit der Vertrauenspersonen über mehrere
+ZaPFen hinweg, unterstützt die Vertrauenspersonen in ihrer Arbeit und bereitet
+Veranstaltungen sowie Schulungen zum Thema Awareness auf und zwischen den ZaPFen
+vor. Weiterhin unterstützt das Awarenessgremium die ausrichtenden Fachschaften
+zum Thema Awareness.
+
+Das Awarenessgremium besteht aus zwei Personen, die für ein Jahr gewählt werden.
+
+Die Amtszeit einer Person des Awarenessgremiums beginnt zu einer im
+Sommersemester stattfindenden ZaPF, die der anderen zu einer im Wintersemester
+stattfindenden ZaPF.
+
+Die Personen des Awarenessgremiums gelten qua Amt als weitere
+Vertrauenspersonen, zusätzlich zu den sechs vom Plenum gewählten
+Vertrauenspersonen. Ihre Amtszeit als Vertrauenspersonen ist an ihre Amtszeit
+als Person im Awarenessgremium gekoppelt.
 
 ## Das Kommunikationsgremium
 
