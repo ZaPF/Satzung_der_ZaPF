@@ -76,7 +76,11 @@ Die Amtszeit der Vertrauenspersonen beginnt mit der Annahme der Wahl und endet m
 
 Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF gesondert zu regeln.
 
-### (d) Das Kommunikationsgremium
+### (d) Das Awarenessgremium
+
+Das Awarenessgremium koordiniert die Arbeit der Vertrauenspersonen über mehrere ZaPFen hinweg, unterstützt die Vertrauenspersonen in ihrer Arbeit und bereitet Veranstaltungen sowie Schulungen zum Thema Awareness auf und zwischen den ZaPFen vor. Weiterhin unterstützt das Awarenessgremium die ausrichtenden Fachschaften zum Thema Awareness.
+
+### (e) Das Kommunikationsgremium
 
 Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und der jDPG (junge Deutsche Physikalische Gesellschaft).
 
@@ -88,7 +92,7 @@ Die ZaPF wählt ihre Mitglieder des Kommunikationsgremiums für eine Amtszeit vo
 
 Die Details zur Zusammenarbeit werden durch ein Dokument zur „Zusammenarbeit von ZaPF und jDPG“ festgehalten, welches nur durch einen in gleicher Fassung verabschiedeten Beschluss von ZaPF und jDPG geändert werden kann.
 
-### (e) Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
+### (f) Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
 
 Der Technische Organisationsausschuss aller Physikfachschaften (TOPF) ist für die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
 
@@ -131,4 +135,5 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2019 in Bonn,
 - Winter-ZaPF 2019 in Freiburg,
 - Sommer-ZaPF 2023 in Berlin,
-- und der Winter-ZaPF 2023 in Düsseldorf.
+- Winter-ZaPF 2023 in Düsseldorf,
+- und der Winter-ZaPF 2024 in Mainz.
