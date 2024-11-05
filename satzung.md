@@ -5,6 +5,11 @@ Zusammenkunft aller Physik-Fachschaften, kurz ZaPF.
 Sie ist die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa
 Physik).
 
+# Selbstverständnis
+
+Die ZaPF versteht sich als antifaschistisch, demokratisch und offen für
+alle Menschen, welche diese Grundsätze teilen.
+
 # Mitglieder
 
 Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
