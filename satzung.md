@@ -37,14 +37,14 @@ Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
 # Organe
 
 Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
-Physik-Fachschaften (StAPF), die Vertrauenspersonen, das Awarenessgremium, das
+Physik-Fachschaften (StAPF), das Awarenessgremium, die Vertrauenspersonen, das
 Kommunikationsgremium (KomGrem) und der Technische Organisationsausschuss aller
 Physikfachschaften (TOPF).
 
-Die Wahlen von Mitgliedern des StAPF, des KomGrem, des Awarenessgremiums und des
+Die Wahlen von Mitgliedern des StAPF, des Awarenessgremiums, des KomGrem und des
 TOPF sind Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
-Die Mitgliedschaft im StAPF, dem Awarenessgremium, der Gruppe den
+Die Mitgliedschaft im StAPF, dem Awarenessgremiums, der Gruppe den
 Vertrauenspersonen, dem Kommunikationsgremium oder dem TOPF endet mit Ablauf der
 Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes oder Abwahl
 mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist bis 15:00
@@ -128,7 +128,7 @@ Ausgrenzung, Diskriminierung oder Belästigung im Rahmen der ZaPF erfahren haben
 
 Zu Beginn jeder ZaPF wählt das Plenum höchstens sechs Vertrauenspersonen, zwei
 weitere Vertrauenspersonen werden von den ausrichtenden Fachschaften
-benannt. Weiterhin sind die beiden Personen des Awarenessgremiums
+benannt. Weiterhin sind die Personen des Awarenessgremiums
 Vertrauenspersonen.
 
 Unabhängig von der Zahl der zurückgetretenen Mitglieder gilt die verbliebene
@@ -157,8 +157,8 @@ stattfindenden ZaPF.
 
 Die Personen des Awarenessgremiums gelten qua Amt als weitere
 Vertrauenspersonen, zusätzlich zu den sechs vom Plenum gewählten
-Vertrauenspersonen. Ihre Amtszeit als Vertrauenspersonen ist an ihre Amtszeit
-als Person im Awarenessgremium gekoppelt.
+Vertrauenspersonen. Ihre Amtszeit als Vertrauenspersonen ist äquivalent zu den
+Regelungen zur Amtszeit der Vertrauenspersonen.
 
 ## Das Kommunikationsgremium
 
