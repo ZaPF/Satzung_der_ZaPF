@@ -44,7 +44,7 @@ Physikfachschaften (TOPF).
 Die Wahlen von Mitgliedern des StAPF, des Awarenessgremiums, des KomGrem und des
 TOPF sind Personenwahlen entsprechend der Geschäftsordnung der ZaPF.
 
-Die Mitgliedschaft im StAPF, dem Awarenessgremiums, der Gruppe den
+Die Mitgliedschaft im StAPF, dem Awarenessgremium, der Gruppe der
 Vertrauenspersonen, dem Kommunikationsgremium oder dem TOPF endet mit Ablauf der
 Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes oder Abwahl
 mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist bis 15:00
