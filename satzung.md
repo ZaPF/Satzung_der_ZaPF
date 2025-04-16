@@ -254,4 +254,5 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Sommer-ZaPF 2019 in Bonn,
 - Winter-ZaPF 2019 in Freiburg,
 - Sommer-ZaPF 2023 in Berlin,
-- und der Winter-ZaPF 2023 in Düsseldorf.
+- Winter-ZaPF 2023 in Düsseldorf,
+- und der Winter-ZaPF 2024 in Mainz.
