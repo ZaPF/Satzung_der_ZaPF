@@ -61,6 +61,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -153,17 +157,17 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -176,15 +180,19 @@ class="header-section-number">1</span> Name</h1>
 den Namen Zusammenkunft aller Physik-Fachschaften, kurz ZaPF. Sie ist
 die Nachfolgeorganisation der Bundes-Fachschaften-Tagung Physik (BuFaTa
 Physik).</p>
-<h1 data-number="2" id="mitglieder"><span
-class="header-section-number">2</span> Mitglieder</h1>
+<h1 data-number="2" id="selbstverständnis"><span
+class="header-section-number">2</span> Selbstverständnis</h1>
+<p>Die ZaPF versteht sich als antifaschistisch, demokratisch und offen
+für alle Menschen, welche diese Grundsätze teilen.</p>
+<h1 data-number="3" id="mitglieder"><span
+class="header-section-number">3</span> Mitglieder</h1>
 <p>Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der
 Fachschaften Physik aller Hochschulen des deutschsprachigen Raumes
 zusammen.</p>
 <p>Die Mitglieder verpflichten sich zur Einhaltung des Verhaltenskodex
 der ZaPF.</p>
-<h1 data-number="3" id="aufgaben"><span
-class="header-section-number">3</span> Aufgaben</h1>
+<h1 data-number="4" id="aufgaben"><span
+class="header-section-number">4</span> Aufgaben</h1>
 <p>Die ZaPF findet einmal pro Semester statt und tagt öffentlich. Sie
 dient dem Sammeln und der Diskussion von Informationen und tritt mit den
 Resultaten gegebenenfalls an die Öffentlichkeit oder an Dritte heran.
@@ -195,27 +203,29 @@ Sie besitzt kein allgemeinpolitisches Mandat, kann sich jedoch in Bezug
 auf hochschulpolitische Themen auch allgemeinpolitisch äußern. Hierbei
 muss ein Zusammenhang zu studien- und hochschulpolitischen Belangen
 unmittelbar bestehen und deutlich erkennbar bleiben.</p>
-<h1 data-number="4" id="tagung"><span
-class="header-section-number">4</span> Tagung</h1>
+<h1 data-number="5" id="tagung"><span
+class="header-section-number">5</span> Tagung</h1>
 <p>Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest
 und erarbeitet ein Protokoll der Veranstaltung, den sogenannten
 ZaPF-Reader. Sie stellt davon allen Mitgliedsfachschaften ein Exemplar
 zur Verfügung.</p>
 <p>Die Tagung beginnt mit dem Anfangsplenum und endet nach dem
 Abschlussplenum.</p>
-<h1 data-number="5" id="organe"><span
-class="header-section-number">5</span> Organe</h1>
+<h1 data-number="6" id="organe"><span
+class="header-section-number">6</span> Organe</h1>
 <p>Die Organe der ZaPF sind das ZaPF-Plenum, der Ständige Ausschuss der
-Physik-Fachschaften (StAPF), die Vertrauenspersonen, das
-Kommunikationsgremium (KomGrem) und der Technische
-Organisationsausschuss aller Physikfachschaften (TOPF).</p>
-<p>Die Wahlen von Mitgliedern des StAPF, des KomGrem und des TOPF sind
-Personenwahlen entsprechend der Geschäftsordnung der ZaPF.</p>
-<p>Die Mitgliedschaft im StAPF, der Gruppe den Vertrauenspersonen, dem
-Kommunikationsgremium oder dem TOPF endet mit Ablauf der Amtszeit,
-Ableben der amtsinhabenden Person, Niederlegung des Amtes oder Abwahl
-mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist bis
-15:00 Uhr am Vortag bei der ausrichtenden Fachschaft anzukündigen.</p>
+Physik-Fachschaften (StAPF), das Awarenessgremium, die
+Vertrauenspersonen, das Kommunikationsgremium (KomGrem) und der
+Technische Organisationsausschuss aller Physikfachschaften (TOPF).</p>
+<p>Die Wahlen von Mitgliedern des StAPF, des Awarenessgremiums, des
+KomGrem und des TOPF sind Personenwahlen entsprechend der
+Geschäftsordnung der ZaPF.</p>
+<p>Die Mitgliedschaft im StAPF, dem Awarenessgremium, der Gruppe der
+Vertrauenspersonen, dem Kommunikationsgremium oder dem TOPF endet mit
+Ablauf der Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des
+Amtes oder Abwahl mit Zweidrittelmehrheit durch das Plenum. Der Antrag
+auf Abwahl ist bis 15:00 Uhr am Vortag bei der ausrichtenden Fachschaft
+anzukündigen.</p>
 <p>Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl
 wird das Amt bis zum Ablauf der Restdauer der Amtszeit besetzt. Die
 Nachwahl findet auf einem Plenum der nächstmöglichen Tagung statt.
@@ -230,8 +240,8 @@ beginnt mit dem Ende des Plenums in dem die Wahl für ein Organ
 turnusmäßig stattfindet. Es endet mit dem Plenum, in dem die Wahl zur
 Neubesetzung der entsprechenden Plätze des Organs turnusmäßig
 stattfindet, spätestens jedoch mit dem Ende der Tagung.</p>
-<h2 data-number="5.1" id="das-zapf-plenum"><span
-class="header-section-number">5.1</span> Das ZaPF-Plenum</h2>
+<h2 data-number="6.1" id="das-zapf-plenum"><span
+class="header-section-number">6.1</span> Das ZaPF-Plenum</h2>
 <p>Das ZaPF-Plenum ist das oberste beschlussfassende Gremium der ZaPF
 und setzt sich aus allen teilnehmenden Personen der jeweiligen ZaPF
 zusammen.</p>
@@ -243,9 +253,9 @@ Bachelor- und Masterstudiengänge und ähnliche Gremien.</p>
 ZaPF und den Verhaltenskodex der ZaPF.</p>
 <p>Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der
 ZaPF.</p>
-<h2 data-number="5.2"
+<h2 data-number="6.2"
 id="der-ständige-ausschuss-der-physik-fachschaften"><span
-class="header-section-number">5.2</span> Der Ständige Ausschuss der
+class="header-section-number">6.2</span> Der Ständige Ausschuss der
 Physik-Fachschaften</h2>
 <p>Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die
 ZaPF in der Öffentlichkeit.</p>
@@ -277,13 +287,15 @@ vakant sind, die Mitglieder des Technischen Organisationsausschuss aller
 Physikfachschaften oder, falls auch diese vakant sind, die Mitglieder
 der letzten die ZaPF ausrichtenden Fachschaft die Archivierungs- und
 Veröffentlichungsaufgaben des StAPF.</p>
-<h2 data-number="5.3" id="die-vertrauenspersonen"><span
-class="header-section-number">5.3</span> Die Vertrauenspersonen</h2>
+<h2 data-number="6.3" id="die-vertrauenspersonen"><span
+class="header-section-number">6.3</span> Die Vertrauenspersonen</h2>
 <p>Die Vertrauenspersonen dienen als Anlaufstelle für hilfesuchende
 Personen, die Ausgrenzung, Diskriminierung oder Belästigung im Rahmen
 der ZaPF erfahren haben.</p>
-<p>Die Wahl der höchstens sechs Vertrauenspersonen ist zu Beginn jeder
-ZaPF durchzuführen.</p>
+<p>Zu Beginn jeder ZaPF wählt das Plenum höchstens sechs
+Vertrauenspersonen, zwei weitere Vertrauenspersonen werden von den
+ausrichtenden Fachschaften benannt. Weiterhin sind die Personen des
+Awarenessgremiums Vertrauenspersonen.</p>
 <p>Unabhängig von der Zahl der zurückgetretenen Mitglieder gilt die
 verbliebene Gruppe der Vertrauenspersonen weiterhin als gewählt.</p>
 <p>Die Amtszeit der Vertrauenspersonen beginnt mit der Annahme der Wahl
@@ -291,8 +303,24 @@ und endet mit Beginn der nächsten ZaPF. Für vakante Plätze bei den
 Vertrauenspersonen findet keine Nachwahl statt.</p>
 <p>Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für
 Plenen der ZaPF gesondert zu regeln.</p>
-<h2 data-number="5.4" id="das-kommunikationsgremium"><span
-class="header-section-number">5.4</span> Das Kommunikationsgremium</h2>
+<h2 data-number="6.4" id="das-awarenessgremium"><span
+class="header-section-number">6.4</span> Das Awarenessgremium</h2>
+<p>Das Awarenessgremium koordiniert die Arbeit der Vertrauenspersonen
+über mehrere ZaPFen hinweg, unterstützt die Vertrauenspersonen in ihrer
+Arbeit und bereitet Veranstaltungen sowie Schulungen zum Thema Awareness
+auf und zwischen den ZaPFen vor. Weiterhin unterstützt das
+Awarenessgremium die ausrichtenden Fachschaften zum Thema Awareness.</p>
+<p>Das Awarenessgremium besteht aus zwei Personen, die für ein Jahr
+gewählt werden.</p>
+<p>Die Amtszeit einer Person des Awarenessgremiums beginnt zu einer im
+Sommersemester stattfindenden ZaPF, die der anderen zu einer im
+Wintersemester stattfindenden ZaPF.</p>
+<p>Die Personen des Awarenessgremiums gelten qua Amt als weitere
+Vertrauenspersonen, zusätzlich zu den sechs vom Plenum gewählten
+Vertrauenspersonen. Ihre Amtszeit als Vertrauenspersonen ist äquivalent
+zu den Regelungen zur Amtszeit der Vertrauenspersonen.</p>
+<h2 data-number="6.5" id="das-kommunikationsgremium"><span
+class="header-section-number">6.5</span> Das Kommunikationsgremium</h2>
 <p>Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und
 der jDPG (junge Deutsche Physikalische Gesellschaft).</p>
 <p>Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und
@@ -307,9 +335,9 @@ Mitgliedes auf einer ZaPF im Wintersemester.</p>
 „Zusammenarbeit von ZaPF und jDPG“ festgehalten, welches nur durch einen
 in gleicher Fassung verabschiedeten Beschluss von ZaPF und jDPG geändert
 werden kann.</p>
-<h2 data-number="5.5"
+<h2 data-number="6.6"
 id="der-technische-organisationsausschuss-aller-physikfachschaften-topf"><span
-class="header-section-number">5.5</span> Der Technische
+class="header-section-number">6.6</span> Der Technische
 Organisationsausschuss aller Physikfachschaften (TOPF)</h2>
 <p>Der Technische Organisationsausschuss aller Physikfachschaften (TOPF)
 ist für die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF
@@ -332,8 +360,8 @@ Ordnungen gebunden.</p>
 Sommersemester stattfindenden ZaPF, die der anderen zu einer im
 Wintersemester stattfindenden ZaPF.</p>
 <p>Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.</p>
-<h1 data-number="6" id="satzungsänderungen"><span
-class="header-section-number">6</span> Satzungsänderungen</h1>
+<h1 data-number="7" id="satzungsänderungen"><span
+class="header-section-number">7</span> Satzungsänderungen</h1>
 <p>Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei
 Beschlussfähigkeit des Plenums vor der Abstimmung zwingend festzustellen
 ist. Satzungsänderungen sind nicht durch Initiativanträge möglich und
@@ -372,7 +400,8 @@ Kraft. Sie trat zum 28.05.2006 in Kraft.</p>
 <li>Sommer-ZaPF 2019 in Bonn,</li>
 <li>Winter-ZaPF 2019 in Freiburg,</li>
 <li>Sommer-ZaPF 2023 in Berlin,</li>
-<li>und der Winter-ZaPF 2023 in Düsseldorf.</li>
+<li>Winter-ZaPF 2023 in Düsseldorf,</li>
+<li>und der Winter-ZaPF 2024 in Mainz.</li>
 </ul>
 </body>
 </html>
