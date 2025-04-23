@@ -218,7 +218,7 @@ Die Amtszeit der hauptverantwortlichen Personen beträgt ein Jahr.
 Änderungen dieser Satzung benötigen eine Zweidrittelmehrheit, wobei Beschlussfähigkeit
 des Plenums vor der Abstimmung zwingend festzustellen ist.
 Satzungsänderungen sind nicht durch Initiativanträge möglich und können nur auf
-dem Endplenum abgestimmt werden.
+dem Endplenum frühestens am Folgetag nach Einreichung und Aushang abgestimmt werden.
 
 Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor dem
 Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste)
@@ -229,6 +229,11 @@ Auf der ZaPF muss dann zwingend ein Arbeitskreis zum Thema der vorgeschlagenen
 Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.
 Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
 der die ZaPF ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
+
+Im Fall mehrtätiger Endplenen ändert sich die Frist so dass
+Satzungsänderungsanträge bis spätestens 15:00 Uhr am Tag vor dem letzten
+konsekutiven Endplenumstag ab Beginn des Endplenums bei der die ZaPF
+ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
 
 # Schlussbestimmungen und Änderungshistorie {-}
 
