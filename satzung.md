@@ -154,7 +154,7 @@ Veranstaltungen sowie Schulungen zum Thema Awareness auf und zwischen den ZaPFen
 vor. Weiterhin unterstützt das Awarenessgremium die ausrichtenden Fachschaften
 zum Thema Awareness.
 
-Das Awarenessgremium besteht aus zwei Personen, die für ein Jahr gewählt werden.
+Das Awarenessgremium besteht aus zwei natürlichen Personen, die für ein Jahr gewählt werden.
 
 Die Amtszeit einer Person des Awarenessgremiums beginnt zu einer im
 Sommersemester stattfindenden ZaPF, die der anderen zu einer im Wintersemester
@@ -190,7 +190,7 @@ verabschiedeten Beschluss von ZaPF und jDPG geändert werden kann.
 Der Technische Organisationsausschuss aller Physikfachschaften (TOPF) ist für
 die Instandhaltung und Dokumentation der EDV-Projekte der ZaPF verantwortlich.
 
-Er besteht aus zwei vom Plenum zu bestimmenden Personen, die für die
+Er besteht aus zwei vom Plenum zu bestimmenden natürlichen Personen, die für die
 Aufrechterhaltung des Betriebs und die Dokumentation der Basissysteme
 hauptverantwortlich sind, und einer beliebigen Anzahl von freiwillig
 Helfenden, die für die Dokumentation und den Betrieb von einzelnen Projekten
