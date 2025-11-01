@@ -92,7 +92,7 @@ Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
 Der Ständige Ausschuss der Physik-Fachschaften (StAPF) vertritt die ZaPF in der
 Öffentlichkeit.
 
-Der StAPF besteht aus maximal fünf natürlichen Personen von mindestens drei
+Der StAPF besteht aus maximal fünf Personen von mindestens drei
 verschiedenen Hochschulen, welche für jeweils ein Jahr gewählt werden.
 
 Die Amtszeit von drei Mitgliedern des StAPF beginnt zu einer im Sommersemester
@@ -173,7 +173,7 @@ Das Kommunikationsgremium ist ein gemeinsames Gremium von ZaPF und der jDPG
 Die Aufgaben dieses Gremiums sind der Austausch zwischen ZaPF und jDPG sowie die
 Unterstützung gemeinsamer Projekte.
 
-Das Kommunikationsgremium besteht aus vier natürlichen Personen, wovon von ZaPF
+Das Kommunikationsgremium besteht aus vier Personen, wovon von ZaPF
 und von jDPG jeweils zwei Mitglieder bestimmt werden.
 
 Die ZaPF wählt ihre Mitglieder des Kommunikationsgremiums für eine Amtszeit von
