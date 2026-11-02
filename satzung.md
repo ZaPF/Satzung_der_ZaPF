@@ -218,15 +218,16 @@ des Plenums vor der Abstimmung zwingend festzustellen ist.
 Satzungsänderungen sind nicht durch Initiativanträge möglich und können nur auf
 dem Endplenum abgestimmt werden.
 
-Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor dem
-Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste)
+Wünsche nach einer Satzungsänderung sind bis spätestens sieben Tage vor Beginn des
+Anfangsplenum geeignet (z.B. über die ZaPF-Mailingliste),
 zusammen mit einem Antragsentwurf oder mindestens einer schriftlichen
 Begründung und einem konkreten Thema der Satzungsänderung anzukündigen.
 
-Auf der ZaPF muss dann zwingend ein Arbeitskreis zum Thema der vorgeschlagenen
-Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.
-Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
-der die ZaPF ausrichtenden Fachschaften eingereicht und ausgehängt werden müssen.
+Auf der ZaPF muss ein Arbeitskreis stattfinden, der die vorgeschlagenen
+Änderungen thematisiert.
+Anträge zur Änderung sind bis spätestens 15:00 Uhr am Vortag des Endplenums bei
+der die ZaPF ausrichtenden Fachschaft einzureichen und an geeigneter
+Stelle auszuhängen.
 
 # Schlussbestimmungen und Änderungshistorie {-}
 
