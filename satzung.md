@@ -11,8 +11,9 @@ alle Menschen, welche diese Grundsätze teilen.
 
 # Mitglieder
 
-Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften
-Physik aller Hochschulen des deutschsprachigen Raumes zusammen.
+Die ZaPF setzt sich aus vertretenden Personen und Mitgliedern der Fachschaften,
+die Physik- bzw. physiknahe Studiengänge vertreten, aller Hochschulen des
+deutschsprachigen Raumes zusammen.
 
 Die Mitglieder verpflichten sich zur Einhaltung des Verhaltenskodex der ZaPF.
 
